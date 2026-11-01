@@ -1,0 +1,4 @@
+group,searched,cites,asks_location,followup_sent,loc_in_query
+explicit,98.0,98.0,1.0,0.0,0.0
+implicit,100.0,100.0,0.0,0.0,0.0
+nonlocal,87.0,87.0,4.0,0.0,0.0

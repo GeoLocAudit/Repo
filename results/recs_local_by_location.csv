@@ -1,0 +1,20 @@
+loc_id,local,chain,answers,city
+atl,63.0,50.5,200,Atlanta
+boi,69.0,52.0,200,Boise
+bos,64.0,57.49999999999999,200,Boston
+btv,70.0,45.0,200,Burlington
+chi,66.0,50.5,200,Chicago
+den,69.0,59.0,200,Denver
+dub,61.5,35.5,200,Dublin
+hou,67.0,62.0,200,Houston
+jan,67.5,46.0,200,Jackson
+lax,67.5,51.5,200,Los Angeles
+lon,56.49999999999999,39.5,200,London
+mci,66.0,51.0,200,Kansas City
+mia,69.5,49.0,200,Miami
+msp,62.5,56.99999999999999,200,Minneapolis
+nyc,62.0,51.0,200,New York
+phx,64.5,60.0,200,Phoenix
+sea,63.5,49.5,200,Seattle
+syd,57.99999999999999,41.5,200,Sydney
+tor,67.0,48.5,200,Toronto

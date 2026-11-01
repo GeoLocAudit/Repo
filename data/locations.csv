@@ -1,0 +1,20 @@
+loc_id,kind,city,region,country,timezone,lat,lng,pilot
+nyc,us_city,New York,New York,US,America/New_York,40.7128,-74.0060,1
+lax,us_city,Los Angeles,California,US,America/Los_Angeles,34.0522,-118.2437,0
+chi,us_city,Chicago,Illinois,US,America/Chicago,41.8781,-87.6298,0
+hou,us_city,Houston,Texas,US,America/Chicago,29.7604,-95.3698,1
+phx,us_city,Phoenix,Arizona,US,America/Phoenix,33.4484,-112.0740,0
+atl,us_city,Atlanta,Georgia,US,America/New_York,33.7490,-84.3880,0
+sea,us_city,Seattle,Washington,US,America/Los_Angeles,47.6062,-122.3321,0
+den,us_city,Denver,Colorado,US,America/Denver,39.7392,-104.9903,0
+mia,us_city,Miami,Florida,US,America/New_York,25.7617,-80.1918,0
+bos,us_city,Boston,Massachusetts,US,America/New_York,42.3601,-71.0589,0
+msp,us_city,Minneapolis,Minnesota,US,America/Chicago,44.9778,-93.2650,0
+mci,us_city,Kansas City,Missouri,US,America/Chicago,39.0997,-94.5786,0
+boi,us_city,Boise,Idaho,US,America/Boise,43.6150,-116.2023,1
+btv,us_city,Burlington,Vermont,US,America/New_York,44.4759,-73.2121,0
+jan,us_city,Jackson,Mississippi,US,America/Chicago,32.2988,-90.1848,0
+lon,country,London,England,GB,Europe/London,51.5074,-0.1278,1
+tor,country,Toronto,Ontario,CA,America/Toronto,43.6532,-79.3832,0
+syd,country,Sydney,New South Wales,AU,Australia/Sydney,-33.8688,151.2093,1
+dub,country,Dublin,Leinster,IE,Europe/Dublin,53.3498,-6.2603,0

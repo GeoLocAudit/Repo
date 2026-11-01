@@ -1,0 +1,301 @@
+qid,topic,group,question,pilot
+exp_00_00,home services,explicit,best plumber near me,1
+exp_00_01,home services,explicit,emergency electrician near me open now,0
+exp_00_02,home services,explicit,reliable roofing companies in my area,0
+exp_00_03,home services,explicit,HVAC repair near me with good reviews,0
+exp_00_04,home services,explicit,house cleaning services near me,0
+exp_00_05,home services,explicit,pest control companies nearby,0
+exp_00_06,home services,explicit,landscapers near me for small yards,0
+exp_00_07,home services,explicit,local movers with good reviews,0
+exp_00_08,home services,explicit,handyman services near me,0
+exp_00_09,home services,explicit,appliance repair near me,0
+imp_00_00,home services,implicit,how much does it cost to replace a roof,1
+imp_00_01,home services,implicit,do I need a permit to build a deck,0
+imp_00_02,home services,implicit,how much does a plumber charge per hour,0
+imp_00_03,home services,implicit,when is the best time to plant tomatoes,0
+imp_00_04,home services,implicit,what is the average cost of installing central air,0
+imp_00_05,home services,implicit,do I need a licensed electrician to replace a light fixture,0
+imp_00_06,home services,implicit,how much does house cleaning cost,0
+imp_00_07,home services,implicit,is it worth installing solar panels on my house,0
+imp_00_08,home services,implicit,how much does it cost to move a two bedroom apartment,0
+imp_00_09,home services,implicit,what kind of grass grows best for a lawn,0
+non_00_00,home services,nonlocal,how to unclog a drain without chemicals,1
+non_00_01,home services,nonlocal,best cordless drill,0
+non_00_02,home services,nonlocal,how to paint a room,0
+non_00_03,home services,nonlocal,best robot vacuum,0
+non_00_04,home services,nonlocal,how to fix a running toilet,0
+non_00_05,home services,nonlocal,best mattress for back pain,0
+non_00_06,home services,nonlocal,how to remove mold from a shower,0
+non_00_07,home services,nonlocal,best air purifier for allergies,0
+non_00_08,home services,nonlocal,how to choose a water heater,0
+non_00_09,home services,nonlocal,best smart thermostat,0
+exp_01_00,health care,explicit,urgent care near me open now,1
+exp_01_01,health care,explicit,where can I get a flu shot near me,0
+exp_01_02,health care,explicit,dentists near me accepting new patients,0
+exp_01_03,health care,explicit,pediatricians in my area,0
+exp_01_04,health care,explicit,physical therapists near me,0
+exp_01_05,health care,explicit,dermatologists near me with short wait times,0
+exp_01_06,health care,explicit,where can I get an eye exam near me,0
+exp_01_07,health care,explicit,walk-in clinic near me,0
+exp_01_08,health care,explicit,mental health counselors in my area,0
+exp_01_09,health care,explicit,24 hour pharmacy near me,0
+imp_01_00,health care,implicit,how much does an MRI cost without insurance,1
+imp_01_01,health care,implicit,which health insurance plans cover the most doctors,0
+imp_01_02,health care,implicit,is the flu bad this season,0
+imp_01_03,health care,implicit,how do I get a prescription for birth control,0
+imp_01_04,health care,implicit,what vaccines are required for school,0
+imp_01_05,health care,implicit,can a pharmacist prescribe antibiotics,0
+imp_01_06,health care,implicit,how much does a dentist visit cost without insurance,0
+imp_01_07,health care,implicit,is tap water safe to drink,0
+imp_01_08,health care,implicit,what is the air quality today,0
+imp_01_09,health care,implicit,how long is the wait to see a specialist,0
+non_01_00,health care,nonlocal,how much water should I drink per day,1
+non_01_01,health care,nonlocal,best running shoes for flat feet,0
+non_01_02,health care,nonlocal,what are the symptoms of vitamin D deficiency,0
+non_01_03,health care,nonlocal,best fitness tracker,0
+non_01_04,health care,nonlocal,how to improve sleep quality,0
+non_01_05,health care,nonlocal,best electric toothbrush,0
+non_01_06,health care,nonlocal,how long does a cold last,0
+non_01_07,health care,nonlocal,best protein powder,0
+non_01_08,health care,nonlocal,how to lower cholesterol naturally,0
+non_01_09,health care,nonlocal,best meditation app,0
+exp_02_00,personal finance,explicit,banks near me with no monthly fees,1
+exp_02_01,personal finance,explicit,credit unions in my area,0
+exp_02_02,personal finance,explicit,financial advisors near me,0
+exp_02_03,personal finance,explicit,tax preparers near me,0
+exp_02_04,personal finance,explicit,currency exchange near me,0
+exp_02_05,personal finance,explicit,best mortgage lenders in my area,0
+exp_02_06,personal finance,explicit,ATMs near me without fees,0
+exp_02_07,personal finance,explicit,where to open a business bank account near me,0
+exp_02_08,personal finance,explicit,coin counting machine near me,0
+exp_02_09,personal finance,explicit,notary public near me,0
+imp_02_00,personal finance,implicit,how much is sales tax on a car,1
+imp_02_01,personal finance,implicit,what is the income tax rate,0
+imp_02_02,personal finance,implicit,best bank for a savings account,0
+imp_02_03,personal finance,implicit,what credit score do I need to buy a house,0
+imp_02_04,personal finance,implicit,how much is property tax on a home,0
+imp_02_05,personal finance,implicit,best credit card for everyday spending,0
+imp_02_06,personal finance,implicit,how can I file my taxes for free,0
+imp_02_07,personal finance,implicit,what is the minimum wage,0
+imp_02_08,personal finance,implicit,what is the average mortgage rate right now,0
+imp_02_09,personal finance,implicit,how much can I contribute to a retirement account this year,0
+non_02_00,personal finance,nonlocal,what is an index fund,1
+non_02_01,personal finance,nonlocal,best budgeting app,0
+non_02_02,personal finance,nonlocal,how does compound interest work,0
+non_02_03,personal finance,nonlocal,best investment apps for beginners,0
+non_02_04,personal finance,nonlocal,how to build an emergency fund,0
+non_02_05,personal finance,nonlocal,best personal finance books,0
+non_02_06,personal finance,nonlocal,what is a credit utilization ratio,0
+non_02_07,personal finance,nonlocal,how to pay off debt faster,0
+non_02_08,personal finance,nonlocal,best cryptocurrency wallet,0
+non_02_09,personal finance,nonlocal,how does a high yield savings account work,0
+exp_03_00,insurance,explicit,local insurance agents near me,1
+exp_03_01,insurance,explicit,cheapest car insurance in my area,0
+exp_03_02,insurance,explicit,home insurance companies that serve my area,0
+exp_03_03,insurance,explicit,health insurance brokers near me,0
+exp_03_04,insurance,explicit,renters insurance companies in my area,0
+exp_03_05,insurance,explicit,independent insurance agency near me,0
+exp_03_06,insurance,explicit,life insurance agents near me,0
+exp_03_07,insurance,explicit,flood insurance providers in my area,0
+exp_03_08,insurance,explicit,motorcycle insurance agents near me,0
+exp_03_09,insurance,explicit,business insurance brokers near me,0
+imp_03_00,insurance,implicit,how much is car insurance per month,1
+imp_03_01,insurance,implicit,is flood insurance required for my home,0
+imp_03_02,insurance,implicit,what is the cheapest health insurance option,0
+imp_03_03,insurance,implicit,how much does home insurance cost,0
+imp_03_04,insurance,implicit,what is the minimum car insurance required,0
+imp_03_05,insurance,implicit,best car insurance company,0
+imp_03_06,insurance,implicit,how much is health insurance for a family of four,0
+imp_03_07,insurance,implicit,is earthquake insurance worth it,0
+imp_03_08,insurance,implicit,how much does renters insurance cost,0
+imp_03_09,insurance,implicit,do I need health insurance by law,0
+non_03_00,insurance,nonlocal,what is the difference between term and whole life insurance,1
+non_03_01,insurance,nonlocal,what does comprehensive car insurance cover,0
+non_03_02,insurance,nonlocal,what is an insurance deductible,0
+non_03_03,insurance,nonlocal,how are insurance premiums calculated,0
+non_03_04,insurance,nonlocal,is travel insurance worth it,0
+non_03_05,insurance,nonlocal,best pet insurance,0
+non_03_06,insurance,nonlocal,what is umbrella insurance,0
+non_03_07,insurance,nonlocal,does car insurance cover rental cars,0
+non_03_08,insurance,nonlocal,what is gap insurance,0
+non_03_09,insurance,nonlocal,best life insurance companies,0
+exp_04_00,telecom and utilities,explicit,best internet providers in my area,1
+exp_04_01,telecom and utilities,explicit,fiber internet available near me,0
+exp_04_02,telecom and utilities,explicit,phone repair shop near me,0
+exp_04_03,telecom and utilities,explicit,which cell carrier has the best coverage in my area,0
+exp_04_04,telecom and utilities,explicit,cable TV providers near me,0
+exp_04_05,telecom and utilities,explicit,electricity providers in my area,0
+exp_04_06,telecom and utilities,explicit,solar installers near me,0
+exp_04_07,telecom and utilities,explicit,where to recycle electronics near me,0
+exp_04_08,telecom and utilities,explicit,mobile phone store near me,0
+exp_04_09,telecom and utilities,explicit,water delivery service near me,0
+imp_04_00,telecom and utilities,implicit,which internet provider is best for working from home,1
+imp_04_01,telecom and utilities,implicit,how much does home internet cost,0
+imp_04_02,telecom and utilities,implicit,which mobile carrier has the best coverage,0
+imp_04_03,telecom and utilities,implicit,what is the cheapest phone plan,0
+imp_04_04,telecom and utilities,implicit,how much is the average electricity bill,0
+imp_04_05,telecom and utilities,implicit,best streaming service for live sports,0
+imp_04_06,telecom and utilities,implicit,can I switch electricity providers,0
+imp_04_07,telecom and utilities,implicit,how fast is the average home internet connection,0
+imp_04_08,telecom and utilities,implicit,best prepaid phone plan,0
+imp_04_09,telecom and utilities,implicit,is 5G home internet available,0
+non_04_00,telecom and utilities,nonlocal,best wifi router for a large house,1
+non_04_01,telecom and utilities,nonlocal,how to speed up wifi,0
+non_04_02,telecom and utilities,nonlocal,best noise cancelling headphones,0
+non_04_03,telecom and utilities,nonlocal,best laptop for students,0
+non_04_04,telecom and utilities,nonlocal,iPhone or Android which is better,0
+non_04_05,telecom and utilities,nonlocal,best mesh wifi system,0
+non_04_06,telecom and utilities,nonlocal,how much internet speed do I need for streaming,0
+non_04_07,telecom and utilities,nonlocal,best VPN,0
+non_04_08,telecom and utilities,nonlocal,best smartphone camera,0
+non_04_09,telecom and utilities,nonlocal,best tablet for reading,0
+exp_05_00,food and dining,explicit,best pizza near me,1
+exp_05_01,food and dining,explicit,good Italian restaurants nearby,0
+exp_05_02,food and dining,explicit,brunch spots near me,0
+exp_05_03,food and dining,explicit,vegan restaurants near me,0
+exp_05_04,food and dining,explicit,coffee shops near me with wifi,0
+exp_05_05,food and dining,explicit,best sushi in my area,0
+exp_05_06,food and dining,explicit,restaurants open late near me,0
+exp_05_07,food and dining,explicit,bakeries near me,0
+exp_05_08,food and dining,explicit,farmers markets near me this weekend,0
+exp_05_09,food and dining,explicit,food delivery services available in my area,0
+imp_05_00,food and dining,implicit,what is the local food specialty I should try,1
+imp_05_01,food and dining,implicit,how much should I tip at a restaurant,0
+imp_05_02,food and dining,implicit,what is the best food delivery app,0
+imp_05_03,food and dining,implicit,can I buy alcohol on Sunday,0
+imp_05_04,food and dining,implicit,which grocery store has the lowest prices,0
+imp_05_05,food and dining,implicit,when are farmers markets in season,0
+imp_05_06,food and dining,implicit,best meal kit delivery service,0
+imp_05_07,food and dining,implicit,what time do restaurants usually close,0
+imp_05_08,food and dining,implicit,can I order alcohol for delivery,0
+imp_05_09,food and dining,implicit,which supermarket has the best quality produce,0
+non_05_00,food and dining,nonlocal,easy weeknight dinner recipes,1
+non_05_01,food and dining,nonlocal,best chef knife,0
+non_05_02,food and dining,nonlocal,how to make sourdough bread,0
+non_05_03,food and dining,nonlocal,best coffee maker,0
+non_05_04,food and dining,nonlocal,healthy breakfast ideas,0
+non_05_05,food and dining,nonlocal,best air fryer,0
+non_05_06,food and dining,nonlocal,how to cook rice perfectly,0
+non_05_07,food and dining,nonlocal,best non stick pan,0
+non_05_08,food and dining,nonlocal,vegetarian sources of protein,0
+non_05_09,food and dining,nonlocal,best blender for smoothies,0
+exp_06_00,retail,explicit,grocery stores near me open now,1
+exp_06_01,retail,explicit,hardware stores near me,0
+exp_06_02,retail,explicit,furniture stores in my area,0
+exp_06_03,retail,explicit,where to buy a mattress near me,0
+exp_06_04,retail,explicit,bike shops near me,0
+exp_06_05,retail,explicit,electronics stores near me,0
+exp_06_06,retail,explicit,thrift stores near me,0
+exp_06_07,retail,explicit,florists near me with same day delivery,0
+exp_06_08,retail,explicit,pet stores near me,0
+exp_06_09,retail,explicit,where to buy running shoes near me,0
+imp_06_00,retail,implicit,which stores are open on public holidays,1
+imp_06_01,retail,implicit,is there sales tax on clothing,0
+imp_06_02,retail,implicit,what are my rights to return an online purchase,0
+imp_06_03,retail,implicit,best place to buy a used iPhone,0
+imp_06_04,retail,implicit,when are the big sales this year,0
+imp_06_05,retail,implicit,best online furniture store,0
+imp_06_06,retail,implicit,which retailers price match,0
+imp_06_07,retail,implicit,how much does a gallon of milk cost,0
+imp_06_08,retail,implicit,best place to buy a laptop,0
+imp_06_09,retail,implicit,which store has the cheapest groceries,0
+non_06_00,retail,nonlocal,best running shoes,1
+non_06_01,retail,nonlocal,best backpack for travel,0
+non_06_02,retail,nonlocal,best gifts for teenagers,0
+non_06_03,retail,nonlocal,best winter jacket,0
+non_06_04,retail,nonlocal,best office chair,0
+non_06_05,retail,nonlocal,best bikes for kids,0
+non_06_06,retail,nonlocal,best sunscreen,0
+non_06_07,retail,nonlocal,best digital camera for beginners,0
+non_06_08,retail,nonlocal,best yoga mat,0
+non_06_09,retail,nonlocal,best luggage brand,0
+exp_07_00,cars and transport,explicit,auto repair shops near me,1
+exp_07_01,cars and transport,explicit,car dealerships near me,0
+exp_07_02,cars and transport,explicit,cheapest gas near me,0
+exp_07_03,cars and transport,explicit,tire shops near me,0
+exp_07_04,cars and transport,explicit,car wash near me,0
+exp_07_05,cars and transport,explicit,EV charging stations near me,0
+exp_07_06,cars and transport,explicit,driving schools in my area,0
+exp_07_07,cars and transport,explicit,where to rent a car near me,0
+exp_07_08,cars and transport,explicit,oil change near me,0
+exp_07_09,cars and transport,explicit,used car dealers near me with good reviews,0
+imp_07_00,cars and transport,implicit,how much does it cost to register a car,1
+imp_07_01,cars and transport,implicit,best electric car for winter driving,0
+imp_07_02,cars and transport,implicit,how much is gas right now,0
+imp_07_03,cars and transport,implicit,do I need snow tires,0
+imp_07_04,cars and transport,implicit,how do I renew my driver's license,0
+imp_07_05,cars and transport,implicit,do I need a car to commute,0
+imp_07_06,cars and transport,implicit,"best used car under $15,000",0
+imp_07_07,cars and transport,implicit,how much does car insurance cost for a teen driver,0
+imp_07_08,cars and transport,implicit,what is the speed limit on highways,0
+imp_07_09,cars and transport,implicit,are there tax credits for buying an electric car,0
+non_07_00,cars and transport,nonlocal,how often should I change my oil,1
+non_07_01,cars and transport,nonlocal,best SUV for families,0
+non_07_02,cars and transport,nonlocal,how to jump start a car,0
+non_07_03,cars and transport,nonlocal,hybrid or electric car which is better,0
+non_07_04,cars and transport,nonlocal,best dash cam,0
+non_07_05,cars and transport,nonlocal,how to improve gas mileage,0
+non_07_06,cars and transport,nonlocal,best car seat for infants,0
+non_07_07,cars and transport,nonlocal,what does a check engine light mean,0
+non_07_08,cars and transport,nonlocal,best all season tires,0
+non_07_09,cars and transport,nonlocal,how long do EV batteries last,0
+exp_08_00,travel and leisure,explicit,things to do near me this weekend,1
+exp_08_01,travel and leisure,explicit,hiking trails near me,0
+exp_08_02,travel and leisure,explicit,hotels near me,0
+exp_08_03,travel and leisure,explicit,gyms near me,0
+exp_08_04,travel and leisure,explicit,yoga studios near me,0
+exp_08_05,travel and leisure,explicit,parks near me for kids,0
+exp_08_06,travel and leisure,explicit,museums near me,0
+exp_08_07,travel and leisure,explicit,movie theaters near me,0
+exp_08_08,travel and leisure,explicit,golf courses near me,0
+exp_08_09,travel and leisure,explicit,day trips from my area,0
+imp_08_00,travel and leisure,implicit,what is the weather like this weekend,1
+imp_08_01,travel and leisure,implicit,when is the best time of year to visit the beach,0
+imp_08_02,travel and leisure,implicit,do I need a visa to travel to Europe,0
+imp_08_03,travel and leisure,implicit,what are the public holidays this month,0
+imp_08_04,travel and leisure,implicit,best weekend getaway,0
+imp_08_05,travel and leisure,implicit,what are the best ski resorts,0
+imp_08_06,travel and leisure,implicit,how early should I arrive at the airport,0
+imp_08_07,travel and leisure,implicit,best airline for domestic flights,0
+imp_08_08,travel and leisure,implicit,national parks worth visiting,0
+imp_08_09,travel and leisure,implicit,how much does a train ticket to the nearest big city cost,0
+non_08_00,travel and leisure,nonlocal,how to pack light,1
+non_08_01,travel and leisure,nonlocal,best travel credit card,0
+non_08_02,travel and leisure,nonlocal,tips for long flights,0
+non_08_03,travel and leisure,nonlocal,best travel apps,0
+non_08_04,travel and leisure,nonlocal,how to avoid jet lag,0
+non_08_05,travel and leisure,nonlocal,best carry on suitcase,0
+non_08_06,travel and leisure,nonlocal,how to find cheap flights,0
+non_08_07,travel and leisure,nonlocal,best noise cancelling earbuds for travel,0
+non_08_08,travel and leisure,nonlocal,what to do if my flight is cancelled,0
+non_08_09,travel and leisure,nonlocal,best travel pillow,0
+exp_09_00,"legal, government and education",explicit,lawyers near me for a will,1
+exp_09_01,"legal, government and education",explicit,DMV office near me,0
+exp_09_02,"legal, government and education",explicit,passport office near me,0
+exp_09_03,"legal, government and education",explicit,daycare centers near me,0
+exp_09_04,"legal, government and education",explicit,tutoring services near me,0
+exp_09_05,"legal, government and education",explicit,best public schools in my area,0
+exp_09_06,"legal, government and education",explicit,community colleges near me,0
+exp_09_07,"legal, government and education",explicit,immigration lawyers near me,0
+exp_09_08,"legal, government and education",explicit,post office near me,0
+exp_09_09,"legal, government and education",explicit,divorce lawyers in my area,0
+imp_09_00,"legal, government and education",implicit,how do I get a marriage license,1
+imp_09_01,"legal, government and education",implicit,what is the legal drinking age,0
+imp_09_02,"legal, government and education",implicit,how much does college tuition cost,0
+imp_09_03,"legal, government and education",implicit,how do I apply for unemployment benefits,0
+imp_09_04,"legal, government and education",implicit,what are the rules for homeschooling,0
+imp_09_05,"legal, government and education",implicit,is marijuana legal,0
+imp_09_06,"legal, government and education",implicit,how do I get a fishing license,0
+imp_09_07,"legal, government and education",implicit,how much does it cost to file for divorce,0
+imp_09_08,"legal, government and education",implicit,how long does a landlord have to return a security deposit,0
+imp_09_09,"legal, government and education",implicit,how do I register a small business,0
+non_09_00,"legal, government and education",nonlocal,how to write a will,1
+non_09_01,"legal, government and education",nonlocal,best online courses for data science,0
+non_09_02,"legal, government and education",nonlocal,how to learn a new language fast,0
+non_09_03,"legal, government and education",nonlocal,best language learning app,0
+non_09_04,"legal, government and education",nonlocal,how to write a resume,0
+non_09_05,"legal, government and education",nonlocal,best coding bootcamps,0
+non_09_06,"legal, government and education",nonlocal,how to prepare for a job interview,0
+non_09_07,"legal, government and education",nonlocal,what is a power of attorney,0
+non_09_08,"legal, government and education",nonlocal,best note taking app for students,0
+non_09_09,"legal, government and education",nonlocal,how to negotiate a salary,0

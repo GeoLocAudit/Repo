@@ -1,0 +1,1783 @@
+engine,run,qid,loc_id,rep,question,answer,items,missing,wrong,type_errors,ok
+openai,e1_natural,imp_08_03,lon,2,what are the public holidays this month,"In **England and Wales**, there are **no public/bank holidays in October 2026**. The next bank holidays are **Christmas Day on Friday, 25 December 2026** and **Boxing Day substitute day on Monday, 28 December 2026**. ([gov.uk](https://www.gov.uk/bank-holidays?layout=default&v=popup&utm_source=openai))
+
+If you meant **Scotland** or **Northern Ireland**, I can list the holidays for those too.",gov.uk [public],,,,ok
+openai,e1_natural,imp_00_00,den,1,how much does it cost to replace a roof,"Roof replacement costs vary a lot, but a common U.S. ballpark is:
+
+- **Asphalt shingle roof:** about **$8,000–$20,000** for an average home
+- **Metal roof:** about **$15,000–$40,000+**
+- **Tile, slate, or premium materials:** can be **$25,000–$75,000+**
+
+What drives the price:
+- **Roof size** and pitch/complexity
+- **Material choice**
+- **Tear-off vs. overlay**
+- **Decking repairs**
+- **Labor costs in your area**
+- **Permits and disposal fees**
+
+A quick rough rule for asphalt shingles is often **$4–$10 per square foot installed**.
+
+If you want, I can help estimate it more closely if you tell me:
+1. your roof size or house square footage,  
+2. the material you want, and  
+3. your location.",,,,,ok
+openai,e1_natural,imp_08_03,syd,2,what are the public holidays this month,"If you mean **New South Wales in October 2026**, there is **1 public holiday this month**: **Labour Day — Monday 5 October 2026**. ([nsw.gov.au](https://www.nsw.gov.au/about-nsw/public-holidays?utm_source=openai))
+
+If you want, I can also list **public holidays for the rest of 2026 in NSW**.",nsw.gov.au [public],,,,ok
+gemini,net_uk,imp_04_04,none,2,how much is the average electricity bill,"As of October 2026, the average annual electricity bill for a typical household in the UK is approximately **£910 per year**.
+
+It is important to note that this figure is an estimate based on ""typical"" usage and current Ofgem price cap rates. Because individual circumstances vary significantly, here is a breakdown of how these costs are calculated and what might affect your specific bill:
+
+### Key Factors Influencing Your Bill
+*   **The Price Cap:** From 1 October to 31 December 2026, the Ofgem price cap for electricity on a standard variable tariff is **26.32p per kWh** for usage, plus a daily standing charge of **54.83p**. 
+*   **VAT Reduction:** A significant change for this period is the government's removal of VAT from electricity bills, which is in effect from 1 October 2026 to 31 March 2027. This helps lower the overall cost compared to what it would otherwise be.
+*   **Usage Levels:** The £910 figure assumes a specific level of consumption (often cited as 2,700 kWh per year for a medium household). If you live in a larger home, use electric heating, or have high energy-consuming appliances, your bill will naturally be higher.
+*   **Standing Charges:** You pay a fixed daily standing charge regardless of how much electricity you use. This covers the cost of maintaining the energy network and keeping your home connected.
+
+### Monthly Costs
+While annual figures are often used for government benchmarks, most people pay by monthly Direct Debit. Suppliers typically ""smooth out"" these costs so that you pay a consistent amount throughout the year, rather than seeing spikes during the winter months when electricity usage (especially for lighting and potential heating) is higher. Depending on your household size and efficiency, monthly electricity costs often range from **£55 to £80** for average users.
+
+### Important Considerations
+*   **Combined Bills:** Many sources report ""average energy bills"" as a combined figure for both gas and electricity. For a typical household using both fuels, the combined annual cap is set at **£1,723**.
+*   **Fixed Tariffs:** If you have moved to a fixed-rate tariff, you are not subject to the current Ofgem price cap. Your rates will depend on the specific deal you signed with your supplier.
+*   **Regional Differences:** Your location can impact the standing charge you pay, as these rates are calculated based on regional network maintenance costs and population density.
+
+To get the most accurate view of your own costs, check your latest statement or your online supplier account, which will show your exact unit rates and total annual consumption.",Ofgem [public],,,,ok
+openai,net_au,exp_01_00,none,2,urgent care near me open now,"Here are some **urgent care options near you that are open now** from Google Maps results: ([google.com](https://www.google.com/maps/search/urgent-care-clinics-near-me-open-today?utm_source=openai))
+
+- **Wellstar Urgent Care** — 3980 Jiles Rd — **Open, closes 7:30 PM** — (678) 504-0100. ([google.com](https://www.google.com/maps/search/urgent-care-clinics-near-me-open-today?utm_source=openai))
+- **Peachtree Immediate Care - Kennesaw** — 2481 George Busbee Pkwy NW — **Open, closes 8 PM** — (770) 423-0000. ([google.com](https://www.google.com/maps/search/urgent-care-clinics-near-me-open-today?utm_source=openai))
+- **UnityPoint Clinic Urgent Care - Ingersoll** — 2103 Ingersoll Ave Ste 2 — **Open, closes 4 PM** — (515) 323-5680. ([google.com](https://www.google.com/maps/search/quick-care-clinics-near-me?utm_source=openai))
+- **Broadlawns Community Clinic at Drake** — 2970 University Ave — **Open, closes 2 PM** — (515) 216-5100. ([google.com](https://www.google.com/maps/search/quick-care-clinics-near-me?utm_source=openai))
+- **Midwest Express Clinic Urgent Care** — 2868 N Broadway — **Closed now; opens 8 AM**. ([google.com](https://www.google.com/maps/search/urgent%2Bcare%2Bwith%2Biv%2Bfluids%2Bnear%2Bme?utm_source=openai))
+- **Three Peaks Urgent Care - Lakewood** — 98 Wadsworth Blvd Unit 119 — **Open, closes 8 PM** — (303) 963-5191. ([google.com](https://www.google.com/maps/search/urgent%20care%20cerca%20de%20mi%3Cbr%20/%3E/?utm_source=openai))
+- **CommonSpirit Emergency & Urgent Care Lakewood** — 3280 S Wadsworth Blvd — **Open 24 hours** — (303) 649-3620. ([google.com](https://www.google.com/maps/search/urgent%20care%20cerca%20de%20mi%3Cbr%20/%3E/?utm_source=openai))
+
+If you want, I can narrow this down to **your city or ZIP code** and give you the **closest 3 open now**.",Wellstar Urgent Care [chain]; Peachtree Immediate Care - Kennesaw [chain]; UnityPoint Clinic Urgent Care - Ingersoll [chain]; Broadlawns Community Clinic at Drake [chain]; Midwest Express Clinic Urgent Care [chain]; Three Peaks Urgent Care - Lakewood [chain]; CommonSpirit Emergency & Urgent Care Lakewood [chain],,,,ok
+openai,e1_natural,exp_08_03,jan,2,gyms near me,"Here are a few gyms and fitness spots in **Jackson, MS** I could quickly find:
+
+- **Battlefield Park / Dorothy Vest Tennis Center** — 771 W. Porter St., Jackson, MS 39204. It has recreation amenities like basketball, tennis, a walking trail, and a community center. ([sites.google.com](https://sites.google.com/view/friendsofbattlefield/home?utm_source=openai))
+- **The Westin Jackson fitness center** — 407 S Congress St., Jackson, MS 39201. This is a hotel gym, but it does have a 24-hour fitness center. ([google.com](https://www.google.com/maps?q=407+South+Congress+Street%2CThe+Westin+Jackson&utm_source=openai))
+- **Homewood Suites by Hilton Jackson Fondren Medical District** — near UMMC/Fondren area; the property includes a fitness center. ([google.com](https://www.google.com/travel/hotels/entity/CgsIx7aYq9rBjv68ARAB?ts=CAEaBAoCGgAqBAoAGgA&utm_source=openai))
+
+I wasn’t able to get a clean local gym listing from Google Maps/Yelp because of access limits, so if you want, I can do a more targeted search for:
+1. **24-hour gyms**
+2. **cheap gyms**
+3. **women-only gyms**
+4. **CrossFit / boxing / MMA**
+5. **gyms near a specific neighborhood** in Jackson
+
+If you tell me your neighborhood or ZIP code, I can narrow it down.",Battlefield Park / Dorothy Vest Tennis Center [local]; The Westin Jackson fitness center [local]; Homewood Suites by Hilton Jackson Fondren Medical District [local],,,,ok
+openai,e1_natural,imp_03_00,nyc,2,how much is car insurance per month,"It depends on where you live, your driving record, age, car, and coverage level, but a rough U.S. average is:
+
+- **Full coverage:** about **$195–$225 per month**
+- **Minimum coverage:** about **$54–$68 per month** ([bankrate.com](https://www.bankrate.com/insurance/car/average-cost-of-car-insurance/?utm_source=openai))
+
+If you’re in **New York**, the average is higher:
+
+- **About $223 per month** overall for a driver with a clean record
+- **About $117 per month** for the cheapest full-coverage option NerdWallet found
+- **About $35 per month** for the cheapest minimum-coverage option in New York ([nerdwallet.com](https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-new-york?utm_source=openai))
+
+If you want, I can estimate **your** monthly car insurance based on your age, ZIP code, car, and driving history.",Bankrate [platform]; NerdWallet [platform],,,,ok
+openai,e1_natural,non_03_03,dub,2,how are insurance premiums calculated,"Insurance premiums are calculated by estimating **how likely you are to make a claim** and **how much that claim would cost**, then adding administrative costs, taxes/fees, and profit margin.
+
+### The basic idea
+A premium is usually based on:
+
+1. **Risk of loss**  
+   How likely the insurer thinks you are to file a claim.
+
+2. **Severity of loss**  
+   How expensive that claim might be.
+
+3. **Expenses**  
+   Claims handling, sales, overhead, reinsurance, fraud prevention, etc.
+
+4. **Profit/risk margin**  
+   A buffer so the insurer stays solvent and earns a return.
+
+### What insurers look at
+It depends on the type of insurance, but common factors include:
+
+- **Your personal history**  
+  Claims history, driving record, health history, credit-based insurance score in some places, etc.
+
+- **The thing being insured**  
+  Car model, home location, property age, business type, health status.
+
+- **Coverage choices**  
+  Higher coverage limits, lower deductibles, and extra add-ons usually increase the premium.
+
+- **Location**  
+  Crime rates, weather risk, flood/fire risk, local repair costs.
+
+- **Statistical data**  
+  Insurers use large datasets and actuarial models to predict expected losses for people in similar groups.
+
+### Simplified formula
+A rough version is:
+
+**Premium = Expected claims + expenses + profit/loadings**
+
+Or more specifically:
+
+**Premium ≈ (Probability of claim × Average claim cost) + operating costs + margin**
+
+### Example
+If an insurer estimates:
+
+- 5% chance of a claim this year
+- average claim cost = €2,000
+
+Then expected loss is:
+
+- 0.05 × €2,000 = **€100**
+
+If admin costs, taxes, and profit add another €50, the premium might be around **€150** for that risk pool.
+
+### Why two people pay different premiums
+Even for the same policy, insurers charge different amounts because their data suggests one person is statistically more likely to cost more than another.
+
+If you want, I can also explain:
+- **car insurance premium calculation**
+- **home insurance premium calculation**
+- **health insurance premium calculation**",,,,,ok
+gemini,net_us_west,exp_02_02,none,1,financial advisors near me,"Finding a financial advisor can be a significant step toward achieving your long-term goals. Since I do not have access to your current location, you can use the resources below to find qualified professionals in your area.
+
+### Where to Find Financial Advisors
+You can use these reputable, searchable directories to locate advisors based on your specific city or zip code:
+
+*   **[NAPFA (National Association of Personal Financial Advisors)](https://www.napfa.org/):** Best for finding ""fee-only"" financial advisors. Fee-only advisors are generally paid directly by you for their advice, which can help minimize conflicts of interest compared to those who earn commissions on products.
+*   **[CFP Board](https://www.letsmakeaplan.org/):** The Certified Financial Planner Board allows you to search for professionals who have met rigorous education, examination, and ethical standards.
+*   **[Wealthtender](https://wealthtender.com/):** A directory that features verified client reviews, which can be helpful if you want to see what other clients say about an advisor's communication style and service.
+*   **Major Financial Firms:** If you prefer a larger institution, firms like **[Fidelity](https://www.fidelity.com/)**, **[Edward Jones](https://www.edwardjones.com/)**, **[Ameriprise](https://www.ameriprise.com/)**, and **[Morgan Stanley](https://www.morganstanley.com/)** have tools on their websites to help you find advisors at branches near you.
+
+### Key Considerations When Choosing
+It is common practice to interview two or three advisors before making a decision. Here is what you should look for:
+
+*   **Fiduciary Status:** Look for a **fiduciary**. A fiduciary is legally and ethically required to act in your best interest at all times. Always ask, ""Are you a fiduciary?""
+*   **Compensation Model:** Understand exactly how they get paid. 
+    *   **Fee-only:** They charge a flat fee, an hourly rate, or a percentage of your assets.
+    *   **Fee-based:** They may charge a fee but also receive commissions from selling specific financial products.
+*   **Services Offered:** Ensure their expertise matches your needs. Do you need help with retirement planning, tax strategies, estate planning, or simply investment management?
+*   **Communication Style:** Trust your instincts. You should feel comfortable sharing your financial details with them, and they should be someone who listens well and explains complex topics in a way you understand.
+
+### Next Steps
+1.  **Define your goal:** Are you looking for a one-time plan or ongoing management?
+2.  **Search the directories:** Use the links above to identify 2–3 candidates in your area.
+3.  **Schedule a consultation:** Most advisors offer a complimentary initial meeting. Use this time to ask about their fees, their typical client, and how they would approach your specific financial situation.",NAPFA (National Association of Personal Financial Advisors) [platform]; CFP Board [public]; Wealthtender [platform]; Fidelity [chain]; Edward Jones [chain]; Ameriprise [chain]; Morgan Stanley [chain],,,,ok
+openai,net_au,non_03_00,none,2,what is the difference between term and whole life insurance,"Here’s the difference in plain English:
+
+- **Term life insurance** covers you for a **set period** — like 10, 20, or 30 years. If you die during that term, your beneficiaries get the death benefit. If the term ends and you’re still living, the coverage usually ends. It’s generally **much cheaper** and has **no cash value**. ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?msockid=0aef8c8727be67f63ba59a6926fd66e4&utm_source=openai))
+- **Whole life insurance** is a type of **permanent life insurance** that generally lasts your **entire life** as long as premiums are paid. It usually includes a **cash value** component that grows over time, but it’s **significantly more expensive** than term life. ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?msockid=0aef8c8727be67f63ba59a6926fd66e4&utm_source=openai))
+
+**Quick comparison:**
+
+| Feature | Term Life | Whole Life |
+|---|---|---|
+| Coverage length | Fixed term | Lifetime, typically |
+| Cash value | No | Yes |
+| Cost | Lower | Higher |
+| Best for | Temporary needs, like income replacement or a mortgage | Lifelong coverage and cash value buildup | ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?msockid=0aef8c8727be67f63ba59a6926fd66e4&utm_source=openai))
+
+**Rule of thumb:**  
+If you want the **most affordable protection**, term life usually fits. If you want **permanent coverage plus cash value**, whole life may be the better fit. ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?msockid=0aef8c8727be67f63ba59a6926fd66e4&utm_source=openai))
+
+If you want, I can also give you a **“which one should I choose?”** guide based on your age, family situation, and budget.",nerdwallet.com [platform],,,,ok
+openai,e1_natural,non_04_05,sea,1,best mesh wifi system,"If you want the **best mesh Wi‑Fi system overall right now**, RTINGS’ top pick is the **TP-Link Deco 7 Pro BE63**. It’s their best-tested mesh system for large homes, with strong range, fast speeds, and Wi‑Fi 7 support. ([rtings.com](https://www.rtings.com/router/reviews/best/mesh-wifi-system?utm_source=openai))
+
+Quick picks by use case:
+- **Best overall:** TP-Link Deco 7 Pro BE63. ([rtings.com](https://www.rtings.com/router/reviews/best/mesh-wifi-system?utm_source=openai))
+- **Best upper mid-range:** ASUS ZenWiFi ET9. ([rtings.com](https://www.rtings.com/router/reviews/best/mesh-wifi-system?utm_source=openai))
+- **Best mid-range:** TP-Link Deco XE5300. ([rtings.com](https://www.rtings.com/router/reviews/best/mesh-wifi-system?utm_source=openai))
+- **Best budget:** eero 6. ([rtings.com](https://www.rtings.com/router/reviews/best/mesh-wifi-system?utm_source=openai))
+
+My simple recommendation:
+- **Get the TP-Link Deco 7 Pro BE63** if you want the best performance and have a decent-to-large home.
+- **Get the ASUS ZenWiFi ET9** if you want a strong alternative without going all-in on Wi‑Fi 7.
+- **Get eero 6** if you mainly want easy setup and lower cost. ([rtings.com](https://www.rtings.com/router/reviews/best/mesh-wifi-system?utm_source=openai))
+
+If you want, I can also give you the **best mesh system for your home size and budget**.",TP-Link Deco 7 Pro BE63 [product]; ASUS ZenWiFi ET9 [product]; TP-Link Deco XE5300 [product]; eero 6 [product],,,,ok
+gemini,net_au,imp_04_05,none,1,best streaming service for live sports,"The ""best"" streaming service for live sports depends entirely on which sports you follow and where you are located. Because sports broadcasting rights are fragmented across multiple platforms, there is rarely one single service that covers everything.
+
+### Best Sports Streaming Services in Australia
+For viewers in Australia, here are the top options categorized by their strengths:
+
+*   **Kayo Sports:** Generally considered the **top all-around choice** for Australian sports fans. It offers the most comprehensive coverage of AFL, NRL, cricket, basketball, and international motorsports. It also includes ""pro"" features like **SplitView** (watching four games at once), ""Key Moments"" for catching highlights, and a ""No Spoilers"" mode.
+*   **Stan Sport:** The primary destination for **Rugby Union, tennis, cycling, and specific soccer leagues** (including UEFA competitions). Note that you must have a base Stan subscription, then add the Sport package for an additional monthly fee.
+*   **Disney+ (via ESPN):** A strong contender if you are interested in **American sports**. Since integrating ESPN, it offers extensive coverage of the NBA, WNBA, MLB, NHL, and college sports.
+*   **Paramount+:** Increasingly important for **soccer fans** (A-League, various international cups) and, notably, as a host for **UFC events**.
+*   **Free-to-Air Digital Platforms:** Don't overlook free services like **7plus, 9Now, and 10 Play**, which often carry major events like the Olympics, tennis grand slams, or select matches for national leagues.
+
+---
+
+### Tips for Managing Costs
+Since sports rights are spread across many platforms, many fans engage in **""subscription hopping""**—the practice of subscribing to a service only during the months their preferred sport is in season and cancelling during the off-season.
+
+### Summary Checklist for Choosing
+To pick the right service for you, consider these three factors:
+1.  **League Priority:** Identify the specific teams or leagues you cannot miss. Check their official websites to see which service holds the rights in your region.
+2.  **Budget:** Services like Kayo are premium products. If you are on a budget, look for free-to-air apps or ""skinny bundles"" that might provide just enough coverage for your needs.
+3.  **Features:** If you watch multiple games at once, prioritize services like Kayo that offer multi-stream viewing. If you are a busy viewer, look for services with robust ""on-demand"" and ""highlight"" features.",Kayo Sports [chain]; Stan Sport [chain]; Disney+ [chain]; ESPN [chain]; Paramount+ [chain]; 7plus [chain]; 9Now [chain]; 10 Play [chain],,,,
+openai,e1_natural,exp_01_08,mia,1,mental health counselors in my area,"Here are some mental health counselors in the Miami area I found:
+
+- **Anett Ochoa, MS, LMHC** — Miami, FL 33176. ([psychologytoday.com](https://www.psychologytoday.com/us/therapists/fl/miami?msockid=219186d064596e4f1aa1905b651f6f99&utm_source=openai))
+- **Yamila Rosales, RMHCI** — Miami, FL 33196. ([psychologytoday.com](https://www.psychologytoday.com/us/therapists/33196?utm_source=openai))
+- **Emperatriz Guzmán, LMHC, IMH-E®** — Miami, FL 33145. ([psychologytoday.com](https://www.psychologytoday.com/us/therapists//fl/miami?utm_source=openai))
+- **Sean Phelan, LMHC** — Miami, FL. ([psychologytoday.com](https://www.psychologytoday.com/us/therapists//fl/miami?category=depression&utm_source=openai))
+- **Baypoint Counseling Center** — adults and couples in Miami. ([psychologytoday.com](https://www.psychologytoday.com/us/therapists/fl/miami?category=adults&utm_source=openai))
+
+If you want, I can narrow this down by:
+- **insurance**
+- **in-person vs telehealth**
+- **specialty** like anxiety, depression, trauma, couples, or child counseling
+- **your ZIP code** for closer matches
+
+If you share your ZIP code and what you’re looking for, I can make a shorter, more tailored list.","Anett Ochoa, MS, LMHC [local]; Yamila Rosales, RMHCI [local]; Emperatriz Guzmán, LMHC, IMH-E® [local]; Sean Phelan, LMHC [local]; Baypoint Counseling Center [local]",,,,ok
+openai,e1_natural,imp_08_00,mci,2,what is the weather like this weekend,"This weekend in Kansas City looks **very warm and mostly sunny**.  
+
+- **Sunday, October 11:** Mostly sunny, high around **89°F (31°C)**, low **71°F (22°C)**.  
+- **Monday, October 12:** Breezy and very warm, high around **90°F (32°C)**, low **72°F (22°C)**. 
+
+If you want, I can also give you a **more detailed hour-by-hour forecast** or help you plan around the heat.",,,,,ok
+openai,net_uk,non_02_02,none,1,how does compound interest work,"Compound interest means you earn interest on both:
+
+1. your original money, and  
+2. the interest that has already been added.
+
+So your balance grows faster over time because each period’s interest is calculated on a bigger amount. The SEC’s Investor.gov explains it as “interest paid on principal and on accumulated interest.” ([investor.gov](https://www.investor.gov/introduction-investing/investing-basics/glossary?utm_source=openai))
+
+Example: if you put in $100 at 5% annual interest, after year 1 you have $105. In year 2, you earn 5% on $105, not just on the original $100, so the balance becomes $110.25. That extra growth keeps building over time. ([investor.gov](https://www.investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest?utm_source=openai))
+
+A simple formula is:
+
+**A = P(1 + r/n)^(nt)**
+
+- **A** = final amount  
+- **P** = principal (starting amount)  
+- **r** = annual interest rate  
+- **n** = number of times interest compounds per year  
+- **t** = number of years
+
+If you want, I can also show you a quick real-world example or explain the difference between compound interest and simple interest.",SEC’s Investor.gov [public],,,,no
+openai,e1_natural,exp_05_03,atl,1,vegan restaurants near me,"Here are some vegan spots near Atlanta, based on your location:
+
+- **La Semilla** — fully vegan Latin restaurant in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Mission Burger Co.** — fully vegan burger shop in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Pizza Verdura Sincera** — fully vegan pizzeria in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Stir House – Vegan Stir Fry** — fully vegan, gluten-free Asian-style wok spot in downtown Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Dulce Vegan Bakery and Cafe** — vegan bakery/cafe in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Cafe Sunflower** — vegan-friendly/fine dining with an Atlanta location in Buckhead. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Slutty Vegan – Edgewood** — vegan burger spot in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Tassili’s Raw Reality** — vegan/raw cuisine in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Plant Based Pizzeria** — vegan pizza in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+- **Soul Vegetarian – Highland** — vegan soul food in Atlanta. ([happycow.net](https://www.happycow.net/best-vegan-restaurants/atlanta-georgia?utm_source=openai))
+
+If you want, I can narrow this down by:
+1. **closest to you**
+2. **best rated**
+3. **cheap**
+4. **open now**
+5. **delivery / takeout**",La Semilla [local]; Mission Burger Co. [local]; Pizza Verdura Sincera [local]; Stir House – Vegan Stir Fry [local]; Dulce Vegan Bakery and Cafe [local]; Cafe Sunflower [local]; Slutty Vegan – Edgewood [local]; Tassili’s Raw Reality [local]; Plant Based Pizzeria [local]; Soul Vegetarian – Highland [local],,,,ok
+openai,e1_natural,exp_08_00,dub,2,things to do near me this weekend,"Here are a few **things to do near you in Dublin this weekend (Saturday, 11 October to Sunday, 12 October 2026)**:
+
+- **Music in the Mountains Festival** — live traditional music and local culture across the Dublin Mountains, running **9–11 October**. ([dublin.ie](https://dublin.ie/whats-on/?utm_source=openai))
+- **Open House Dublin** — free architecture festival with guided tours and events across the city, running **10–18 October**. ([dublin.ie](https://dublin.ie/whats-on/?utm_source=openai))
+- **Irish Arts and Human Rights Festival** — arts events focused on equality and human rights, running **9–18 October**. ([dublin.ie](https://dublin.ie/whats-on/?utm_source=openai))
+- **Dublin Halloween Festival** — 40+ events around the city from **10–31 October**, including talks, walks, exhibitions, and screenings. ([dublin.ie](https://dublin.ie/whats-on/listings/dublin-halloween-festival/?utm_source=openai))
+- **Dublin Theatre Festival** — its programme runs through **Sunday, 11 October**, so today is your last chance this weekend. ([dublin.ie](https://dublin.ie/whats-on/?utm_source=openai))
+- **Dublin Festival of History** — also runs through **Sunday, 11 October**, with talks and debates around the city. ([dublin.ie](https://dublin.ie/whats-on/?utm_source=openai))
+
+If you want, I can narrow this down to:
+1. **free things to do**,  
+2. **indoor options if the weather’s bad**, or  
+3. **family-friendly / date night / nightlife** options.",Music in the Mountains Festival [public]; Open House Dublin [public]; Irish Arts and Human Rights Festival [public]; Dublin Halloween Festival [public]; Dublin Theatre Festival [public]; Dublin Festival of History [public],,,,ok
+gemini,net_us_west,non_01_00,none,1,how much water should I drink per day,"There is no single number that applies to everyone, as your water needs depend on your individual health, activity level, and environment. However, there are general guidelines to help you stay properly hydrated.
+
+### General Recommendations
+The National Academies of Sciences, Engineering, and Medicine suggests the following as an average daily intake of **total fluids** (which includes water, other beverages, and the water contained in food):
+
+*   **For Men:** About **15.5 cups (3.7 liters)** per day.
+*   **For Women:** About **11.5 cups (2.7 liters)** per day.
+
+It is important to note that about 20% of your daily fluid intake typically comes from the food you eat, while the rest comes from drinks. Therefore, you do not necessarily need to drink the entire amount in plain water.
+
+### Factors That Influence Your Needs
+You may need more or less water depending on your specific circumstances:
+
+*   **Activity Level:** If you exercise or have a job that keeps you physically active, you need to drink more to replace the water lost through sweat. A common recommendation is to add about 12 ounces of fluid for every 30 minutes of exercise.
+*   **Climate:** Hot, humid, or high-altitude environments can cause your body to lose more water through sweat and respiration, requiring you to increase your intake.
+*   **Overall Health:** Conditions like fever, vomiting, or diarrhea increase the body's need for fluids. Additionally, some medical conditions or medications may require you to adjust your fluid intake.
+*   **Pregnancy/Breastfeeding:** Those who are pregnant or breastfeeding generally need higher fluid intake.
+
+### How to Tell If You Are Hydrated
+Instead of obsessing over a specific number, you can monitor your hydration using these simple indicators:
+*   **Urine Color:** A good goal is to drink enough fluid so that your urine is a clear or pale yellow color.
+*   **Thirst:** For most healthy people, your body’s natural thirst mechanism is a very effective guide. If you are rarely thirsty and your urine is pale yellow, you are likely getting enough water.
+
+**The Bottom Line:** The old ""eight 8-ounce glasses"" rule is a simple and easy-to-remember goal, but it is just a starting point. Listen to your body and adjust based on your lifestyle and how you feel.",,,,,ok
+openai,net_uk,imp_01_00,none,1,how much does an MRI cost without insurance,"Without insurance, an MRI in the U.S. typically costs **about $1,325 on average**, but prices can range widely—from **around $400 to $12,000** depending on the body part, facility, and location. ([carecredit.com](https://www.carecredit.com/well-u/health-wellness/mri-cost/?msockid=1e7336c5fd676d722e9b2062fc576ca4&utm_source=openai))
+
+If you want, I can also look up:
+- **cash price estimates near your city**
+- **MRI cost by body part** (brain, spine, knee, etc.)
+- **how to get a cheaper self-pay MRI**",cash price estimates near your city [platform]; MRI cost by body part [product]; how to get a cheaper self-pay MRI [platform],,,,no
+openai,net_au,imp_03_03,none,1,how much does home insurance cost,"Home insurance in the U.S. varies a lot by state and home characteristics, but a good recent benchmark is that the **average homeowners insurance premium increased by $648 from 2021 to 2024, a 24% rise**, according to the NAIC. The NAIC also reported that **Florida was the most expensive state in its 2024 analysis, with an average premium of $9,462 per year** for the test consumer used in the study. ([content.naic.org](https://content.naic.org/sites/default/files/national_meeting/Consumer%20Liaison%20Materials%207.29.25.pdf?utm_source=openai))
+
+If you want a simpler rule of thumb: **home insurance often costs a few hundred to a few thousand dollars per year**, depending on where you live, the home’s replacement value, and risk factors like weather exposure. The NAIC says rates are shaped by the home’s value and other local factors, and that insurance prices vary significantly by region. ([content.naic.org](https://content.naic.org/consumer/homeowners-insurance.htm?utm_source=openai))
+
+If you want, I can also give you:
+- the **average by state**
+- a **monthly estimate**
+- or a **quote-style estimate for your home** if you tell me your state, ZIP code, and approximate home value.",NAIC [public],,,,ok
+gemini,net_au,imp_03_00,none,1,how much is car insurance per month,"The average cost of comprehensive car insurance in Australia is approximately **$130 per month** (or about $1,560 per year).
+
+However, because insurance premiums are highly personalised, the amount you pay can vary significantly based on your specific circumstances.
+
+### Key Factors That Influence Your Premium
+Insurers calculate your risk profile to determine your price. Common factors include:
+
+*   **Driver Profile:** Your age (drivers under 25 typically pay more), driving history, and years of experience.
+*   **Your Vehicle:** The make, model, age, and value of your car, as well as its safety and security features.
+*   **Location:** Where you live and where you park your car (e.g., in a garage versus on the street).
+*   **Usage:** Whether you use your car for personal or commercial purposes and your annual estimated kilometres.
+*   **Policy Structure:** The type of cover you choose (e.g., Third Party vs. Comprehensive) and the amount of your excess.
+
+### Tips to Help Manage Costs
+*   **Compare Policies:** Because premiums change frequently, it is often worth comparing policies from different providers annually.
+*   **Adjust Your Excess:** Opting for a higher voluntary excess can often lower your monthly premium, though you should ensure you can afford the higher out-of-pocket cost if you need to make a claim.
+*   **Pay Annually:** Many insurers offer a discount if you pay your premium in one lump sum rather than in monthly or fortnightly instalments.
+*   **Review Your Cover:** Check if you are paying for optional extras you do not need, or consider ""low-kilometre"" policies if you rarely drive.
+
+***Disclaimer:** Insurance prices fluctuate based on market conditions, including repair costs and weather events. The figures above are national averages and your actual quote may differ significantly based on your unique profile.*",comprehensive car insurance [product]; Third Party [product],,,,ok
+gemini,net_uk,non_05_03,none,2,best coffee maker,"The ""best"" coffee maker depends entirely on how you enjoy your coffee and how much effort you want to put into the brewing process. Because there is no single machine that fits everyone, experts in 2026 generally categorize the top performers by brewing style.
+
+### **1. Best for Drip Coffee (Convenience & Consistency)**
+If you want a reliable, high-quality pot of coffee without complex manual steps, these machines are top-rated for their build quality and temperature precision:
+*   **Technivorm Moccamaster (e.g., KBGV Select):** Widely considered the gold standard for drip coffee. It is praised for its exceptional build quality, longevity, and ability to brew at the ideal temperature consistently.
+*   **Bunn HB Heat N Brew:** Frequently cited by *Consumer Reports* as a top-performing drip machine, noted for its speed, ease of use, and reliability.
+*   **OXO Brew 8-Cup Coffee Maker:** A great ""best overall"" pick for those who want a compact, sleek machine that balances consistent performance with a reasonable price point.
+*   **Fellow Aiden:** Noted for its advanced, precise temperature control, making it a favorite for those who want a premium, automated experience.
+
+### **2. Best for Espresso & Specialty Drinks**
+If you prefer lattes, cappuccinos, or concentrated shots, these machines range from beginner-friendly to professional-grade:
+*   **Breville Barista Express / Express Impress:** Often ranked as the best overall for home espresso. It includes a built-in grinder and provides a great balance of control and ease of use for those learning to be a home barista.
+*   **Breville Bambino / Bambino Plus:** Highly recommended as an entry-level, compact machine that delivers excellent value and quality espresso.
+*   **Ninja Luxe Café Series:** A popular choice for those who want a versatile, ""all-in-one"" machine that handles various coffee styles with minimal fuss.
+*   **Philips Café Aromis Series 8000:** An excellent, fully automatic ""bean-to-cup"" machine if you want a café-quality drink at the touch of a button without needing to learn how to tamp or grind manually.
+
+### **3. Best for Single-Serve (Speed & Simplicity)**
+For those who want a quick cup with minimal cleanup:
+*   **Keurig K-Cafe Smart:** Often cited for its convenience, speed, and consistency, plus the added benefit of Wi-Fi connectivity for custom settings.
+*   **Ninja DualBrew Pro:** Highly versatile, allowing you to use both pods and ground coffee, making it excellent for households with different preferences.
+*   **AeroPress:** While manual, this remains a cult favorite for its portability, durability, and the incredible quality of coffee it produces for a very low price.
+
+### **Quick Buying Guide**
+| If you want... | Look for... |
+| :--- | :--- |
+| **A great pot of coffee** | Technivorm Moccamaster or OXO Brew |
+| **Café-style espresso** | Breville Barista Express |
+| **Total automation** | Philips Café Aromis or similar super-automatics |
+| **Fast, single cups** | Keurig K-Cafe o",Technivorm Moccamaster [product]; KBGV Select [product]; Bunn HB Heat N Brew [product]; Consumer Reports [platform]; OXO Brew 8-Cup Coffee Maker [product]; Fellow Aiden [product]; Breville Barista Express [product]; Express Impress [product]; Breville Bambino [product]; Bambino Plus [product]; Ninja Luxe Café Series [product]; Philips Café Aromis Series 8000 [product]; Keurig K-Cafe Smart [product]; Ninja DualBrew Pro [product]; AeroPress [product]; Technivorm Moccamaster [product]; OXO Brew [product]; Breville Barista Express [product]; Philips Café Aromis [product]; Keurig K-Cafe [product]; Ninja DualBrew [product],,,,ok
+openai,e1_natural,exp_05_03,dub,1,vegan restaurants near me,"Here are a few **vegan-friendly restaurants near Dublin** that look solid right now:
+
+- **Cornucopia** — plant-based/vegetarian wholefood restaurant in Dublin city centre. ([happycow.net](https://www.happycow.net/reviews/cornucopia-dublin-968?utm_source=openai))
+- **It’s a Trap** — vegan restaurant on Middle Abbey St. ([logs.happycow.net](https://logs.happycow.net/best-vegan-restaurants/dublin-ireland?utm_source=openai))
+- **Sister** — vegetarian café with vegan options on Lennox St. ([logs.happycow.net](https://logs.happycow.net/best-vegan-restaurants/dublin-ireland?utm_source=openai))
+- **Umi Falafel** — vegan-friendly Middle Eastern option in North City. ([logs.happycow.net](https://logs.happycow.net/best-vegan-restaurants/dublin-ireland?utm_source=openai))
+- **Govinda’s** — vegetarian Indian with vegan dishes on Middle Abbey St. ([happycow.net](https://www.happycow.net/reviews/govindas-dublin-9483?page=1&utm_source=openai))
+- **San Sab Clontarf** — Thai street food with a dedicated vegan menu. ([happycow.net](https://www.happycow.net/reviews/san-sab-clontarf-dublin-516921?utm_source=openai))
+
+If you want, I can narrow it down to:
+- **best fully vegan**
+- **closest to your exact location**
+- **cheap eats**
+- **sit-down dinner**
+- **delivery/takeaway**
+
+If you share your area in Dublin, I’ll give you a tighter list.",Cornucopia [local]; It’s a Trap [local]; Sister [local]; Umi Falafel [chain]; Govinda’s [chain]; San Sab Clontarf [local],,,,ok
+openai,e1_natural,non_03_00,mci,2,what is the difference between term and whole life insurance,"**Term life insurance** and **whole life insurance** are both types of life insurance, but they work very differently:
+
+### Term life insurance
+- Covers you for a **specific period** of time, like 10, 20, or 30 years.
+- Usually **cheaper** than whole life.
+- If you die during the term, your beneficiaries get the payout.
+- If you outlive the term, the coverage ends unless you renew or convert it.
+
+### Whole life insurance
+- Covers you for your **entire life** as long as you keep paying premiums.
+- Usually **more expensive**.
+- Includes a **cash value** component that grows over time on a tax-deferred basis.
+- You can sometimes borrow against the cash value or withdraw from it.
+
+### Simple way to think about it
+- **Term life** = temporary protection, lower cost.
+- **Whole life** = lifelong protection plus a savings/investment-like component, higher cost.
+
+### Which is better?
+It depends on your goal:
+- Choose **term** if you want affordable coverage for a specific period, like while raising kids or paying off a mortgage.
+- Choose **whole life** if you want permanent coverage and are okay paying much higher premiums.
+
+If you want, I can also give you a **side-by-side comparison table** or help you figure out which one fits your situation.",,,,,no
+openai,e1_natural,imp_02_02,lon,1,best bank for a savings account,"If you’re in the UK, the “best” savings account usually means **the best rate you can get from a provider that’s FSCS-protected** and suits how quickly you need access to the money. FSCS protects eligible deposits up to **£120,000 per person, per bank/building society/credit union**; note that accounts within the same banking group can share protection, so it’s worth checking the firm name, not just the brand. ([fscs.org.uk](https://www.fscs.org.uk/?lang=en&utm_source=openai))
+
+A good rule of thumb:
+- **Emergency fund / need instant access:** choose an **easy-access savings account**.
+- **Saving for a goal in 6–24 months:** consider a **fixed-rate bond** if you can lock the money away.
+- **Want tax efficiency:** look at a **Cash ISA** if you’ll use the allowance.  
+FSCS covers cash savings accounts and cash ISAs held with eligible UK-authorised firms. ([fscs.org.uk](https://www.fscs.org.uk/?lang=en&utm_source=openai))
+
+I can help you pick the best option if you tell me:
+1. **How much you’re saving**
+2. **Whether you need instant access**
+3. **Whether this is for an emergency fund, house deposit, or general savings**
+4. **Whether you want a UK-only answer**
+
+If you want, I can also look up the **current top savings rates in the UK right now** and compare the best accounts for you.",FSCS [public]; easy-access savings account [product]; fixed-rate bond [product]; Cash ISA [product],,,,ok
+openai,net_us_east,non_08_00,none,2,how to pack light,"Here’s a quick, practical web-backed guide to packing light:
+
+- **Start with a packing list and stick to it.** A fixed list helps you avoid the “just in case” extras that add up. ([ricksteves.com](https://www.ricksteves.com/travel-tips/packing-light/packing-smart?utm_source=openai))
+- **Choose a carry-on-only goal if possible.** Travelers who pack light often aim to stay within airline carry-on limits. Check your airline’s size and quantity rules before you pack. ([packinglighttravel.com](https://packinglighttravel.com/travel-tips/luggage-and-packing/top-20-tips-how-to-pack-light/?utm_source=openai))
+- **Build a small capsule wardrobe.** Pick clothes that mix and match, use a simple color palette, and favor items you’ll actually wear. ([aarp.org](https://www.aarp.org/travel/travel-tips/pack-light-travel-guide/?utm_source=openai))
+- **Limit shoes.** Shoes are bulky; bringing fewer pairs saves the most space. ([aarp.org](https://www.aarp.org/travel/travel-tips/pack-light-travel-guide/?utm_source=openai))
+- **Use travel-size toiletries and restock from samples.** Keep a mini toiletry kit so you’re not packing full-size bottles. ([aarp.org](https://www.aarp.org/travel/travel-tips/pack-light-travel-guide/?utm_source=openai))
+- **Pack only what serves multiple purposes.** Versatile layers, a light jacket, and multi-use accessories go farther than specialized items. ([lonelyplanet.com](https://www.lonelyplanet.com/articles/packing-guide?utm_source=openai))
+- **Leave room for laundry.** If you can wash clothes during the trip, you need far less. ([aarp.org](https://www.aarp.org/travel/travel-tips/pack-light-travel-guide/?utm_source=openai))
+- **Check security rules and airline restrictions.** Don’t pack prohibited items in carry-ons, and verify luggage limits in advance. ([faa.gov](https://www.faa.gov/travelers/prepare_fly/baggage?utm_source=openai))
+
+If you want, I can turn this into a **1-week packing light checklist** or a **carry-on-only packing list**.",Rick Steves [chain]; packinglighttravel.com [platform]; AARP [public]; Lonely Planet [chain]; FAA [public],,,,ok
+openai,net_ca1,exp_00_04,none,2,house cleaning services near me,"Here are some web results for **house cleaning services near you**:
+
+- **BBB house cleaning directory** — browse local cleaners and filter by BBB accreditation and distance. ([bbb.org](https://www.bbb.org/near-me/house-cleaning?utm_source=openai))
+- **Thumbtack** — shows house cleaners in your area and lets you enter your ZIP code to get matched with pros. ([thumbtack.com](https://www.thumbtack.com/k/house-cleaning/near-me?utm_source=openai))
+- **Angi** — matches you with local house cleaning pros and lets you compare quotes. ([angi.com](https://www.angi.com/companylist/house-cleaning/?utm_source=openai))
+- **AHCA cleaner finder** — connects you with residential cleaning providers, including recurring, deep, move-in/move-out, and Airbnb cleaning. ([theahca.org](https://www.theahca.org/find-a-cleaner?utm_source=openai))
+- **Taskrabbit** — lists nearby house cleaning help and notes pricing can start around $42/hour. ([taskrabbit.com](https://www.taskrabbit.com/near-me/house-cleaning?utm_source=openai))
+- **HomeAdvisor** — local house cleaning directory. ([homeadvisor.com](https://www.homeadvisor.com/near-me/house-cleaning/?utm_source=openai))
+
+If you want, I can narrow this down by **your ZIP code or city** and give you a shorter list of nearby options.",BBB house cleaning directory [platform]; Thumbtack [platform]; Angi [platform]; AHCA cleaner finder [platform]; Taskrabbit [platform]; HomeAdvisor [platform],,,,ok
+openai,e1_natural,imp_00_04,btv,1,what is the average cost of installing central air,"The average cost to install central air is about **$3,800 to $7,900**, with many homeowners paying around **$5,900 to $6,000** overall. ([angi.com](https://www.angi.com/articles/buying-ac-compare-first-and-lifetime-costs.htm?utm_source=openai))
+
+A couple of important caveats:
+- If your home **already has ductwork**, the cost is usually lower.
+- If you need **new ducts or major electrical work**, the total can go up a lot. ([angi.com](https://www.angi.com/articles/how-much-does-installing-new-ac-cost.htm?utm_source=openai))
+
+If you want, I can also break it down by **home size**, **with vs. without ductwork**, or **for Vermont labor costs**.",,,,,
+gemini,net_uk,non_08_03,none,1,best travel apps,"To make your 2026 travels as smooth as possible, it is best to use a ""stack"" of apps rather than relying on a single tool. Because no single app handles every stage of a trip perfectly, experienced travelers typically use a combination of apps for planning, booking, and on-the-ground navigation.
+
+Here are the best travel apps for 2026, categorized by how they help you travel.
+
+### **1. Planning & Organizing Your Itinerary**
+These apps help you pull all your reservations, flights, and activities into one easy-to-read timeline.
+*   **[TripIt](https://www.tripit.com):** The gold standard for itinerary organization. Simply forward your confirmation emails to the app, and it automatically builds a master itinerary for you, including real-time flight alerts and gate changes.
+*   **[Wanderlog](https://wanderlog.com):** Excellent for visual planning. It is highly regarded for its ability to map out your daily stops, organize reservations, and allow for collaborative planning with travel companions.
+*   **[Polarsteps](https://www.polarsteps.com):** Best for documenting your journey. It helps you plan your trip ahead of time and creates a beautiful, automatic digital travel journal (or ""step-by-step"" map) as you go.
+
+### **2. Booking Flights, Hotels, & Experiences**
+*   **[Skyscanner](https://www.skyscanner.com):** A must-have for finding the best flight deals. Its ""Everywhere"" search feature and price alerts are perfect for flexible travelers looking for budget-friendly destinations.
+*   **[Booking.com](https://www.booking.com):** Great for a wide range of accommodations. The app often provides ""mobile-only"" discounts that you won't find on the website.
+*   **[GetYourGuide](https://www.getyourguide.com) / [Viator](https://www.viator.com):** Both are excellent for discovering and booking tours, skip-the-line tickets, and local experiences.
+
+### **3. Getting Around & Navigation**
+*   **[Google Maps](https://maps.google.com):** Still the most essential tool for navigation. Always remember to download ""Offline Maps"" for the areas you are visiting so you can navigate even without data.
+*   **[Citymapper](https://citymapper.com):** Highly recommended if you are visiting major cities; it offers superior, real-time public transit directions compared to more general map apps.
+*   **[Rome2Rio](https://www.rome2rio.com):** The best app for figuring out how to get from point A to point B, especially when comparing different modes of transport like trains, buses, and flights.
+
+### **4. Staying Connected & Practical Tools**
+*   **[Airalo](https://www.airalo.com) / [Saily](https://saily.com):** Essential for international travel. These eSIM apps allow you to purchase and install mobile data plans for over 200 countries instantly, avoiding expensive roaming fees.
+*   **[Google Translate](https://translate.google.com):** A lifesaver for language barriers. The app allows you to translate text, signs, and even voice in real-time.
+*   **[Wise](https://wise.com):** Perfect fo",TripIt [platform]; Wanderlog [platform]; Polarsteps [platform]; Skyscanner [platform]; Booking.com [platform]; GetYourGuide [platform]; Viator [platform]; Google Maps [platform]; Citymapper [platform]; Rome2Rio [platform]; Airalo [platform]; Saily [platform]; Google Translate [platform]; Wise [platform]; Splitwise [platform],,,,no
+openai,e1_natural,imp_00_04,lon,2,what is the average cost of installing central air,"The **average cost to install central air** in a typical U.S. home is about **$6,000 to $11,500**, with one recent estimate putting the **average at about $8,460** including equipment and labor. ([thisoldhouse.com](https://www.thisoldhouse.com/heating-cooling/adding-central-air-unit?utm_source=openai))
+
+A few things can push the price up or down:
+- **Existing ductwork**: if your home already has good ducts, it’s cheaper; if not, adding/modifying ducts can add a lot. ([thisoldhouse.com](https://www.thisoldhouse.com/heating-cooling/adding-central-air-unit?utm_source=openai))
+- **Home size and system size**: larger homes need bigger systems and cost more. ([thisoldhouse.com](https://www.thisoldhouse.com/heating-cooling/adding-central-air-unit?utm_source=openai))
+- **Efficiency and brand**: higher-efficiency units and premium brands raise the price. ([thisoldhouse.com](https://www.thisoldhouse.com/heating-cooling/air-conditioner-costs?utm_source=openai))
+
+If you want, I can also give you a **UK estimate in pounds** or a **more exact range based on your home size**.",,,,,no
+openai,e1_natural,exp_07_03,mia,2,tire shops near me,"Here are a few tire shops near Miami, FL that came up:
+
+- **La Ceiba Tire Shop Florida** — 2345 NW 36th St, Miami, FL 33142. Rating **4.6**. Phone **(786) 334-7722**. ([business.google.com](https://business.google.com/v/la-ceiba-tire-shop-florida/04005561476360457910/92e4/_?utm_source=openai))
+- **Tire Choice Auto Service Centers** — 8291 Biscayne Blvd, Miami, FL 33138. ([google.com](https://www.google.com/maps/dir/?api=1&destination=25.85103%2C-80.18441&utm_source=openai))
+- **BJ’s Tire Center** — 7007 SW 117th Ave, Kendall, FL 33183. ([google.com](https://www.google.com/maps/dir/?api=1&destination=25.70283%2C-80.38100&utm_source=openai))
+- **Fast Tire & Auto Repair - Miami** — 3401 NW 7th Ave, Miami, FL. Rating **4.7**. Phone **(305) 433-5005**. ([google.com](https://www.google.com/maps/search/Brake%20Repair%2Bmiami%2C%20fl?utm_source=openai))
+- **Goodyear Auto Service** — 12850 W Dixie Hwy, North Miami, FL 33161. Rating **4.0**. ([google.com](https://www.google.com/maps/search/12850%20W%20DIXIE%20HWY%2C%20NORTH%20MIAMI%2C%20FL%2033161?hl=en&utm_source=openai))
+- **Jefferson Tire Service | Mobile Service** — Miami-based mobile tire service. ([business.google.com](https://business.google.com/v/24-7-mobile-commercial-jefferson-tire-services-llc/016217668373922252453/eb5d/_?utm_source=openai))
+
+If you want, I can narrow these down by **closest to you**, **highest-rated**, or **open right now**.",La Ceiba Tire Shop Florida [local]; Tire Choice Auto Service Centers [chain]; BJ’s Tire Center [chain]; Fast Tire & Auto Repair - Miami [local]; Goodyear Auto Service [chain]; Jefferson Tire Service | Mobile Service [local],,,,ok
+openai,e1_natural,imp_07_03,bos,2,do I need snow tires,"Maybe — it depends on **where you drive in winter, how often, and what your current tires are**.
+
+A quick rule of thumb:
+- **Yes, if** you regularly drive in **snowy/icy conditions**, especially on **unplowed roads**, hills, or in **New England-type winters**.
+- **Maybe not, if** you mostly drive on **well-plowed city/suburban roads** and can avoid driving during storms.
+- **No, if** your area rarely gets snow/ice and temperatures stay mild.
+
+Why snow tires help:
+- Better **traction** in snow, slush, and especially cold weather
+- Shorter **stopping distances**
+- Better **turning/grip** on ice and packed snow
+
+A few important notes:
+- **All-season tires are not the same as snow tires.**
+- Snow tires are most useful when temperatures are consistently **below about 45°F / 7°C**.
+- If you do get them, you generally want **four**, not just two.
+
+If you want, I can help you decide based on:
+1. your **city/region**,  
+2. whether you have **all-season tires now**, and  
+3. how much winter driving you do.",,,,,ok
+openai,e1_natural,exp_03_03,btv,1,health insurance brokers near me,"If you’re in Burlington, VT, the safest way to find a **licensed health insurance broker near you** is through **HealthCare.gov’s local help directory**. You can search by your city/ZIP and set up help by phone, email, or in person. HealthCare.gov also lets you request contact from a licensed agent/broker, and the Marketplace distinguishes between **assisters/navigators** and **agents/brokers**. ([healthcare.gov](https://www.healthcare.gov/find-assistance/?utm_source=openai))
+
+A few nearby options surfaced in local listings for the Burlington/South Burlington area:
+- **Business Resource Service** — South Burlington
+- **Champlain ARC** — Burlington
+- **Medicare Insurance Advisors Burlington** — Burlington
+- **Aydan Liberman, Bankers Life Agent** — South Burlington ([yellowpages.com](https://www.yellowpages.com/s-burlington-vt/health-insurance?utm_source=openai))
+
+If you want, I can do a **more targeted search** and give you a short list of:
+1. **individual/family health insurance brokers**, or  
+2. **Medicare brokers**, or  
+3. **small-business/SHOP brokers**.","HealthCare.gov [platform]; Business Resource Service [local]; Champlain ARC [local]; Medicare Insurance Advisors Burlington [local]; Aydan Liberman, Bankers Life Agent [local]",,,,ok
+openai,net_us_east,imp_04_04,none,2,how much is the average electricity bill,"In the U.S., the **average residential electricity bill is about $150–$160 per month** based on recent 2025–2026 analyses of EIA data. EIA reported **$138/month in 2023** and **about $178/month expected in summer 2025**; more recent third-party analyses using EIA data put the national average around **$157–$158/month** in 2025–2026. ([eia.gov](https://www.eia.gov/todayinenergy/detail.php?id=61903&utm_source=openai))
+
+If you want, I can also give you:
+- the **average bill by state**
+- a **typical bill for an apartment vs. house**
+- or a **rough estimate for your ZIP code**",EIA [public],,,,ok
+gemini,net_uk,non_07_00,none,2,how often should I change my oil,"The old rule of changing your oil every 3,000 miles is largely outdated. For most modern vehicles, you can safely go much longer between changes.
+
+### The Short Answer
+For most cars using **full synthetic oil**, a typical interval is **every 5,000 to 10,000 miles, or every 6–12 months**. 
+
+However, because every vehicle is different, the best approach is to follow the specific recommendation in your **owner’s manual**. If your car has an onboard ""oil life monitor,"" you can also rely on that system to alert you when service is actually needed.
+
+---
+
+### Factors That Affect Your Schedule
+Several conditions can influence how quickly your oil breaks down, potentially requiring more frequent changes:
+
+*   **Driving Habits:** Frequent short trips (less than 4 miles), stop-and-go city traffic, and heavy towing or off-roading are considered ""severe"" driving conditions. These conditions can degrade oil faster than highway driving.
+*   **Oil Type:** 
+    *   **Full Synthetic:** Typically lasts the longest (7,500–10,000+ miles).
+    *   **Conventional/Semi-Synthetic:** Generally needs to be changed more frequently, often every 5,000 miles.
+*   **Vehicle Age & Condition:** Older vehicles or those with high mileage may consume oil faster or experience more engine wear, often requiring more frequent attention.
+*   **Environmental Factors:** Driving in extreme heat, extreme cold, or very dusty/dirty environments can put extra strain on your engine and oil.
+*   **Time, Not Just Mileage:** Even if you don't drive many miles, you should change your oil **at least once a year**. Oil can become acidic and degrade over time simply by sitting in the engine, especially if the car is only driven for short trips.
+
+### Pro-Tips
+*   **Check the Manual:** It is the ultimate authority for your specific make and model.
+*   **Don't Rely Solely on Stickers:** The sticker from the last shop often defaults to the outdated 3,000-mile rule. Check your actual manual or oil-life monitoring system instead.
+*   **Monitor Levels:** Regardless of your mileage, it is good practice to check your oil level with the dipstick periodically to ensure it hasn't burned off or leaked.",owner’s manual [product]; oil life monitor [product]; dipstick [product],,,,no
+openai,e1_natural,exp_03_09,atl,2,business insurance brokers near me,"Here are some **business insurance brokers near Atlanta, Georgia** I can help you start with:
+
+- **Brown & Brown of Georgia** — Atlanta area commercial insurance broker
+- **Risk Strategies** — commercial insurance and employee benefits brokerage
+- **Marsh McLennan Agency** — business insurance / risk management
+- **World Insurance Associates** — commercial lines brokerage
+- **Rogers & Russell Insurance Services** — Atlanta-based independent agency
+- **USI Insurance Services** — business insurance brokerage
+- **HUB International** — commercial insurance broker with Atlanta presence
+
+If you want, I can narrow this to:
+1. **near your ZIP code**
+2. **small-business specialists**
+3. **general liability / workers’ comp / professional liability**
+4. **broker vs agency**
+5. **highest-rated options with phone numbers and addresses**
+
+If you share your **ZIP code or neighborhood**, I’ll give you a tighter list.",Brown & Brown of Georgia [chain]; Risk Strategies [chain]; Marsh McLennan Agency [chain]; World Insurance Associates [chain]; Rogers & Russell Insurance Services [local]; USI Insurance Services [chain]; HUB International [chain],,,,ok
+openai,e1_natural,non_03_09,bos,1,best life insurance companies,"“Best” life insurance company depends on what you want:
+
+- **Best overall / term life:** **Guardian** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+- **Best whole life:** **MassMutual** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+- **Best for seniors:** **New York Life** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+- **Best universal life:** **Northwestern Mutual** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+- **Best for no-medical-exam / instant coverage:** **Lemonade** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+- **Best for veterans:** **USAA** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+
+If you want a quick shortlist, I’d start with:
+1. **Guardian**
+2. **MassMutual**
+3. **New York Life**
+4. **Northwestern Mutual**
+5. **Lemonade** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/best-life-insurance-companies?msockid=0d62c6f1882265173d67d08689656440&utm_source=openai))
+
+If you want, I can also give you the **best life insurance companies by age, budget, or health situation**.",Guardian [chain]; MassMutual [chain]; New York Life [chain]; Northwestern Mutual [chain]; Lemonade [chain]; USAA [chain],,,,ok
+gemini,net_us_east,exp_07_00,none,1,auto repair shops near me,"To provide you with the most accurate recommendations for auto repair shops, I would need to know your current city or zip code.
+
+Since I do not have access to your precise location, here are a few reliable ways to find highly-rated shops in your area right now:
+
+### 1. Use Trusted Online Locators
+You can use these services to find certified or approved repair shops near you:
+*   **[AAA Approved Auto Repair](https://www.aaa.com/AAA/common/AAR/images/aar-main-image.jpg):** AAA maintains a network of vetted repair facilities that meet high standards for quality and customer service.
+*   **[RepairPal](https://repairpal.com):** This site provides a ""Fair Price Estimator"" and a network of ""RepairPal Certified"" shops that are independently inspected for quality, pricing, and training.
+*   **[CARFAX Car Care](https://www.carfax.com/Service/):** You can search by your zip code to see top-rated shops, read customer reviews, and see which services they specialize in (e.g., brakes, tires, oil changes).
+
+### 2. Check With Your Insurance Provider
+If your repair is related to an accident or insurance claim, check your insurance company's website (such as **State Farm** or **Allstate**). They often have a ""Select Service"" or ""Good Hands"" repair network. Using these shops can sometimes:
+*   Streamline the estimate process.
+*   Provide a direct payment arrangement between the insurer and the shop.
+*   Offer a lifetime warranty on the repairs.
+
+### 3. Quick Tips for Choosing a Shop
+*   **Check Reviews:** Look for consistent positive feedback regarding transparency and professionalism.
+*   **Ask About Estimates:** A reputable shop will be happy to provide an estimate before starting work.
+*   **Verify Credentials:** Look for certifications like **ASE (Automotive Service Excellence)**, which indicates the technicians have met industry standards for training and expertise.
+
+**If you reply with your city or zip code, I can look up specific top-rated shops in your area for you!**",AAA Approved Auto Repair [platform]; RepairPal [platform]; CARFAX Car Care [platform]; State Farm [chain]; Allstate [chain]; ASE (Automotive Service Excellence) [public],,,,0
+gemini,net_uk,non_09_00,none,1,how to write a will,"Writing a will is an important step to ensure your assets are distributed according to your wishes. In the UK, while you are not legally required to use a solicitor, it is often advisable to do so—especially if your circumstances are not straightforward.
+
+### 1. Key Components of a Valid Will
+For a will to be legally valid in England and Wales, it must meet specific requirements:
+*   **Written Document:** It must be in writing (paper or electronic).
+*   **Age and Capacity:** You must be 18 or older and of ""sound mind"" (possessing testamentary capacity).
+*   **Voluntary:** It must be made voluntarily, without pressure or ""undue influence"" from others.
+*   **Signing:** You must sign the will in the presence of two independent witnesses, who must both be present at the same time.
+*   **Witnessing:** Your two witnesses must also sign the document in your presence. 
+    *   *Note:* Witnesses should not be beneficiaries of the will, nor the spouses or civil partners of beneficiaries, as this can prevent them from inheriting.
+
+### 2. What to Include
+When preparing your will, consider the following:
+*   **Executors:** Choose people you trust to carry out the instructions in your will.
+*   **Beneficiaries:** Clearly list who you want to benefit, their full names and addresses, and what they should receive. 
+*   **Asset Inventory:** Create a list of your property, savings, investments, and personal belongings.
+*   **Guardianship:** If you have children under 18, name a legal guardian to care for them.
+*   **Residuary Clause:** Decide what should happen to the ""residue"" of your estate (everything left over after debts, taxes, and specific gifts have been distributed).
+*   **Contingencies:** Specify what happens if a beneficiary dies before you.
+
+### 3. When to Seek Professional Advice
+While DIY options exist, you should strongly consider using a solicitor or professional will writer if:
+*   You own a business or overseas property.
+*   You have a complex family structure (e.g., a second marriage or children from a previous relationship).
+*   You are concerned about Inheritance Tax.
+*   You want to provide for a dependant who cannot care for themselves.
+*   There is a risk that family members might challenge the will.
+
+### Next Steps
+1.  **Gather Information:** Make a comprehensive list of your assets and debts.
+2.  **Decide on your Executors and Beneficiaries:** Discuss these choices with the relevant people.
+3.  **Draft the Will:** You can use a solicitor, a professional will writer, or a DIY template, but ensure it adheres to the formal signing requirements.
+4.  **Store Safely:** Keep your will in a safe place (such as with your solicitor, a bank, or the Probate Service) and ensure your executors know where it is.
+
+***Disclaimer:** I am an AI, not a lawyer. This information is for guidance only and does not constitute legal advice. Laws regarding wills can vary (e.g., different rules apply in Scotland and Northern Ireland). Please consult a qualified legal",solicitor [local]; professional will writer [local]; DIY template [product]; the Probate Service [public],,,,
+openai,e1_natural,imp_01_00,tor,1,how much does an MRI cost without insurance,"An MRI **without insurance** in the U.S. commonly costs about **$400 to $3,500+**, depending on:
+
+- **Body part** being scanned
+- Whether it’s **with or without contrast**
+- **Hospital** vs. **independent imaging center**
+- Your city and local pricing
+
+A rough rule of thumb:
+- **Independent imaging center:** often **$400–$1,500**
+- **Hospital outpatient department:** often **$1,500–$3,500+**
+
+If you want, I can also help you estimate the cost for a **specific MRI type** like brain, knee, spine, or abdomen.",Independent imaging center [local]; Hospital outpatient department [local],,,,
+gemini,net_ca1,non_08_00,none,1,how to pack light,"Packing light is a skill that prioritizes intentionality over bringing ""just in case"" items. By focusing on versatility and efficient organization, you can travel with less stress and more freedom.
+
+Here is a guide to packing light effectively.
+
+### 1. The Strategy: Plan Before You Pack
+*   **The ""Half"" Rule:** Make a list of everything you think you need, then cut it in half. Most people over-pack ""just in case"" items that never leave their bag.
+*   **Create a Capsule Wardrobe:** Choose a single color palette so that every top matches every bottom. Stick to versatile, multi-purpose pieces that can be layered.
+*   **Plan for Laundry:** Pack for about one week, regardless of trip length. You can wash clothes in a sink or use local laundry services.
+
+### 2. Smart Packing Techniques
+*   **Use Packing Cubes:** These are essential for keeping items organized and compressed.
+*   **Roll, Don't Fold:** Tightly rolling soft items like t-shirts and sleepwear saves space and minimizes wrinkles.
+*   **Wear Your Bulkiest Items:** If you are bringing a heavy coat, boots, or a sweater, wear them on the plane to save precious room and weight in your bag.
+*   **Utilize ""Dead Space"":** Stuff socks, underwear, or small accessories inside your shoes to maximize every inch of your luggage.
+
+### 3. Essential Gear & Toiletries
+*   **Limit Your Shoes:** Stick to two pairs max: one comfortable walking pair (wear these) and one versatile pair for other activities.
+*   **Simplify Toiletries:** Remember that you can buy toothpaste, shampoo, and soap at your destination. Use small, refillable containers for liquids to save space and meet airline regulations.
+*   **Go Digital:** Skip physical books, maps, and notebooks; keep your itinerary, travel documents, and reading material on your phone or tablet.
+
+### 4. Choosing the Right Bag
+*   **Backpack Over Roller:** A backpack allows for hands-free movement and is much easier to manage on uneven surfaces like cobblestone streets or stairs.
+*   **Prioritize Weight:** Choose a lightweight bag to ensure the bag itself doesn't eat into your weight limit.
+*   **Personal Item:** Use a smaller backpack or tote as your ""personal item"" to carry essential electronics, documents, and valuables, keeping them accessible during your journey.
+
+### Summary Checklist
+*   [ ] **Plan** your outfits based on your specific itinerary.
+*   [ ] **Edit** your list to remove non-essentials.
+*   [ ] **Choose** a consistent color palette.
+*   [ ] **Pack** using compression cubes.
+*   [ ] **Wear** your heaviest gear.",packing cubes [product]; backpack [product]; roller [product]; tote [product]; small backpack [product]; local laundry services [local],,,,
+gemini,net_au,imp_08_00,none,2,what is the weather like this weekend,"As of October 13, 2026, specific local weather forecasts for the upcoming weekend (October 17–18, 2026) across Australia are still developing. Because Australia is a large continent, conditions vary significantly by region.
+
+Here is a general outlook based on current seasonal patterns:
+
+*   **East Coast & Central Regions:** Recent forecasts have indicated active weather systems, including rain and thunderstorms affecting parts of the east. Long-range modeling for October 2026 has suggested a trend toward unsettled weather in these areas, with potential for continued rain-bearing systems.
+*   **Tasmania & Southern Australia:** Recent reports mentioned cold changes moving through Tasmania, while other parts of the south and west have seen more settled conditions under high-pressure systems.
+*   **General Climate Trends:** For October, daytime temperatures are generally expected to be above average across much of the country. 
+
+**Recommendations for the most accurate forecast:**
+Since weather can change quickly, I recommend checking the official **[Bureau of Meteorology (BOM)](http://www.bom.gov.au)** website or the BOM Weather app closer to the weekend. They provide the most reliable, localized, and up-to-date information for your specific city or region.",Bureau of Meteorology (BOM) [public]; BOM Weather app [product],,,,
+gemini,net_us_east,non_07_03,none,2,hybrid or electric car which is better,"Deciding whether a hybrid or an electric vehicle (EV) is ""better"" depends almost entirely on your **daily driving habits, access to charging, and budget**. Neither is objectively superior; rather, one will likely be a better fit for your specific lifestyle.
+
+### At a Glance: Key Differences
+
+| Feature | Hybrid (HEV) | Electric Vehicle (EV) |
+| :--- | :--- | :--- |
+| **Fuel Source** | Gasoline + Electric Motor | Electricity only |
+| **Charging** | None (self-charges) | Must plug in |
+| **Range** | Unlimited (as long as you have gas) | Limited by battery; requires planning |
+| **Maintenance** | Higher (engine + motor) | Lower (fewer moving parts) |
+| **Emissions** | Low (uses gas) | Zero tailpipe emissions |
+
+---
+
+### Why Choose a Hybrid?
+Hybrids are often the best choice if you want the efficiency of an electric motor but aren't ready to change your refueling habits.
+
+*   **Convenience:** You never have to worry about finding a charger. You fill up at a gas station just like a traditional car.
+*   **No Range Anxiety:** Because they use gasoline, hybrids are excellent for long road trips or areas with sparse charging infrastructure.
+*   **Lower Upfront Cost:** Generally, hybrids are more affordable to purchase initially than fully electric vehicles.
+
+### Why Choose an Electric Vehicle (EV)?
+EVs are often the better choice if you can charge at home and want to minimize long-term operating and maintenance costs.
+
+*   **Lower Running Costs:** Electricity is typically cheaper than gasoline. If you charge at home, you can save significantly on daily fuel costs.
+*   **Minimal Maintenance:** EVs have far fewer moving parts (no oil changes, spark plugs, or transmission fluid replacements).
+*   **Driving Experience:** Many drivers prefer EVs for their quiet, smooth ride and the ""instant torque"" (acceleration) provided by electric motors.
+*   **Environmental Impact:** EVs produce zero tailpipe emissions, making them the superior choice for reducing your personal carbon footprint.
+
+### The ""Middle Ground"": Plug-in Hybrids (PHEVs)
+If you are torn between the two, a **Plug-in Hybrid (PHEV)** offers a bridge. 
+*   They have a larger battery than standard hybrids, allowing for short-distance driving (usually 20–50 miles) on electricity alone.
+*   Once the battery is depleted, the gas engine takes over, giving you the best of both worlds.
+*   **Note:** To get the true value of a PHEV, you must be diligent about plugging it in to charge.
+
+### Summary Checklist for Your Decision
+*   **Can you charge at home or work?** If yes, an EV or PHEV is a strong contender. If no, a standard hybrid is likely more practical.
+*   **Do you take frequent long-distance road trips?** If yes, the convenience of a hybrid might outweigh the benefits of an EV.
+*   **What is your primary goal?** If it is saving the most money on fuel and maintenance over time, an EV often wins. If it is saving money on the *initial* purchase price, a hybrid is usually the winner.",Hybrid [product]; Electric Vehicle (EV) [product]; Plug-in Hybrid (PHEV) [product],,,,
+openai,e1_natural,exp_03_00,msp,2,local insurance agents near me,"Here are a few **local insurance agents near Minneapolis, MN** that I found:
+
+- **AAA Minneapolis Insurance Agency** — Hennepin County / Minneapolis area; local independent agents; **952-927-2567**. ([minneapolis.aaa.com](https://www.minneapolis.aaa.com/insurance/contact?utm_source=openai))
+- **Brown & Brown Insurance Services** — 901 Marquette Ave Ste 1800, Minneapolis; **612-333-3323**. ([acuity.com](https://www.acuity.com/find-an-agent/location/Minneapolis?utm_source=openai))
+- **Insurance Brokers of MN – J. Castaneda** — 1516 E Lake St Ste 101, Minneapolis; **612-721-8555**. ([acuity.com](https://www.acuity.com/find-an-agent/location/Minneapolis?utm_source=openai))
+- **Moores Insurance Management Inc** — 509 1st Ave NE #101, Minneapolis; **651-255-6800**. ([acuity.com](https://www.acuity.com/find-an-agent/location/Minneapolis?utm_source=openai))
+- **North Star Consultants Inc** — 2701 University Ave SE, Minneapolis; **612-617-6088**. ([acuity.com](https://www.acuity.com/find-an-agent/location/Minneapolis?utm_source=openai))
+- **Allinsurance Agency LLC** — 3125 Hennepin Ave, Minneapolis. ([agents.libertymutual.com](https://agents.libertymutual.com/find-an-agent/state/minnesota/minneapolis/allinsurance-agency-llc_5583086641?utm_source=openai))
+- **Bernauer Insurance Agency** — office in Northeast Minneapolis; independent agency since 1986. ([bernauerinsurance.com](https://bernauerinsurance.com/?utm_source=openai))
+- **Hassan Ali Agency** — 912 E 24th St Suite B120, Minneapolis; independent insurance agent. ([hassanaliagency.com](https://www.hassanaliagency.com/?utm_source=openai))
+
+If you want, I can narrow this down by:
+1. **auto / home / renters / life**,  
+2. **independent agents only**, or  
+3. **agents closest to your neighborhood or ZIP code**.",AAA Minneapolis Insurance Agency [local]; Brown & Brown Insurance Services [local]; Insurance Brokers of MN – J. Castaneda [local]; Moores Insurance Management Inc [local]; North Star Consultants Inc [local]; Allinsurance Agency LLC [local]; Bernauer Insurance Agency [local]; Hassan Ali Agency [local],,,,
+openai,e1_natural,imp_05_03,boi,2,can I buy alcohol on Sunday,"Yes — in **Boise, Idaho**, you can generally buy **beer and wine on Sunday**. Idaho law allows beer and wine sales from **6:00 a.m. to 1:00 a.m.**, and the state says liquor sales are generally **not allowed on Sunday** unless your city or county has a local ordinance allowing it. ([isp.idaho.gov](https://isp.idaho.gov/abc/faq/?utm_source=openai))
+
+So the short version is:
+
+- **Beer/wine:** yes, usually on Sunday. ([isp.idaho.gov](https://isp.idaho.gov/abc/faq/?utm_source=openai))
+- **Liquor/spirits:** usually **no** on Sunday, unless local rules allow it. ([isp.idaho.gov](https://isp.idaho.gov/abc/faq/?utm_source=openai))
+
+If you want, I can also check **whether Boise specifically allows Sunday liquor sales**.","Boise, Idaho [local]",,,,
+openai,e1_natural,imp_04_05,btv,2,best streaming service for live sports,"The **best streaming service for live sports depends on which sports and channels you want**, but if you want the **single best overall pick for most sports fans**, I’d lean **YouTube TV**. It has a broad live-channel lineup, strong sports features like **multiview**, **stats view**, **key plays**, and a sports-focused plan option. ([tv.youtube.com](https://tv.youtube.com/learn/directvstream/?utm_source=openai))
+
+If you want the **best for pure sports breadth/local coverage**, **DIRECTV Stream** and **Fubo** are often the strongest alternatives because they emphasize sports-heavy lineups and regional sports coverage; DIRECTV’s own comparison says it has **the most regional sports networks** among the major services, and its MySports bundle includes many key sports networks. ([directv.com](https://www.directv.com/insider/best-live-tv-streaming-services/?utm_source=openai))
+
+If you want **best value + sports + entertainment**, **Hulu + Live TV** is a very strong all-around option. Hulu says it includes **100+ live channels**, **Unlimited DVR**, and sports across ESPN, Fox, CBS, NBC, FS1, NFL Network, MLB Network, TNT, and TBS. ([hulu.com](https://www.hulu.com/live-sports?utm_source=openai))
+
+If you mostly follow **specific sports or leagues**, a narrower service can be better:
+- **Peacock** for certain Premier League and other sports content. ([peacocktv.com](https://www.peacocktv.com/sports?utm_source=openai))
+- **ESPN Unlimited / ESPN-focused offerings** for ESPN-heavy coverage and a lot of college/pro sports. ([directv.com](https://www.directv.com/insider/how-to-watch-sports-without-cable/?utm_source=openai))
+
+**My quick recommendation:**
+- **Best overall:** YouTube TV
+- **Best for sports-heavy households/local RSNs:** DIRECTV Stream or Fubo
+- **Best bundle/value:** Hulu + Live TV
+- **Best for specific leagues:** Peacock or ESPN-focused plans
+
+If you want, I can also give you a **pick based on your favorite teams/leagues** and your budget.",YouTube TV [chain]; DIRECTV Stream [chain]; Fubo [chain]; Hulu + Live TV [chain]; Peacock [chain]; ESPN Unlimited / ESPN-focused offerings [product],,,,
+openai,e1_natural,non_08_03,bos,2,best travel apps,"Here are some of the **best travel apps** to consider, depending on what you need:
+
+- **Google Maps / Waze** — navigation, traffic, and route planning; Waze is especially useful for driving. ([travelandleisure.com](https://www.travelandleisure.com/travel-news/best-free-travel-apps?utm_source=openai))
+- **Hopper** — good for flight and hotel price tracking and booking. ([travelandleisure.com](https://www.travelandleisure.com/travel-news/best-free-travel-apps?utm_source=openai))
+- **Airline apps** — best for check-in, boarding passes, and real-time flight updates. ([travelandleisure.com](https://www.travelandleisure.com/what-to-do-before-flight-5439295?utm_source=openai))
+- **Flight tracker apps** like **Flightradar24** and **FlightAware** — useful for tracking delays and seeing live flight status. ([travelandleisure.com](https://www.travelandleisure.com/how-to-track-a-flight-7571393?utm_source=openai))
+- **Google Translate** — one of the strongest translation apps for travelers. ([travelandleisure.com](https://www.travelandleisure.com/travel-tips/mobile-apps/best-translation-apps-travelers?utm_source=openai))
+- **AllTrails** — great if your trip includes hiking or outdoor activities. ([travelandleisure.com](https://www.travelandleisure.com/travel-news/best-free-travel-apps?utm_source=openai))
+- **Hostelworld** — useful for budget accommodation booking. ([travelandleisure.com](https://www.travelandleisure.com/travel-news/best-free-travel-apps?utm_source=openai))
+- **Flush** — handy for locating public restrooms nearby. ([travelandleisure.com](https://www.travelandleisure.com/travel-news/best-free-travel-apps?utm_source=openai))
+- **Flying Calmly** — helpful if you want turbulence forecasts and flight-anxiety support. ([travelandleisure.com](https://www.travelandleisure.com/how-to-overcome-your-fear-of-flying-with-a-turbulence-app-7568344?utm_source=openai))
+
+If you want, I can also give you:
+1. **best travel apps for international trips**,  
+2. **best travel apps for road trips**, or  
+3. a **must-have app list for iPhone/Android**.",Google Maps [platform]; Waze [platform]; Hopper [platform]; Airline apps [platform]; Flightradar24 [platform]; FlightAware [platform]; Google Translate [platform]; AllTrails [platform]; Hostelworld [platform]; Flush [platform]; Flying Calmly [platform],,,,
+gemini,net_au,exp_03_09,none,1,business insurance brokers near me,"To find a reliable business insurance broker in your area, you can use several reputable, industry-standard search tools designed for the Australian market.
+
+### How to Find a Broker
+Since I do not have access to your specific location, you can use these trusted tools to find brokers near you:
+
+*   **[NIBA “Need a Broker” Tool](https://www.needabroker.com.au):** This is the official search tool provided by the National Insurance Brokers Association (NIBA). It is one of the most reliable ways to find qualified, professional brokers across Australia.
+*   **Industry Directories:** Websites like [Localsearch](https://www.localsearch.com.au) allow you to search by suburb or postcode for ""insurance brokers"" and often include client reviews and ratings.
+*   **Company-Specific Locators:** Many large brokerage networks (such as Austbrokers or CBN) have ""find a broker"" or ""office locator"" features on their websites where you can enter your postcode to find nearby branches.
+
+### Tips for Choosing the Right Broker
+When evaluating potential brokers, consider the following to ensure they are the right fit for your business:
+
+*   **Check Their Expertise:** Look for a broker who has specific experience with your industry. A broker familiar with the risks of your sector (e.g., construction vs. retail) will provide much more valuable advice than a generalist.
+*   **Verify Credentials:** In Australia, all legitimate insurance brokers must hold or be an authorized representative of an **Australian Financial Services Licence (AFSL)**. You can verify a broker’s license status on the [ASIC Connect professional registers](https://asicconnect.asic.gov.au/).
+*   **Ask About Their Process:** A good broker should act as your advocate. During your initial contact, ask:
+    *   ""How do you approach risk management for businesses in my industry?""
+    *   ""What is your process for supporting clients during a claim?""
+    *   ""How often will we review my policy to ensure it remains relevant as my business grows?""
+*   **Reputation and Reviews:** Check online reviews or ask for references from other business owners in your industry. A reputable broker will often be happy to provide testimonials or examples of their work.
+
+By choosing a broker who understands your specific business model and acts as your advocate during renewals and claims, you can ensure that you aren't just buying a policy, but securing protection that actually covers your unique risks.",NIBA “Need a Broker” Tool [platform]; Localsearch [platform]; Austbrokers [chain]; CBN [chain]; Australian Financial Services Licence (AFSL) [public]; ASIC Connect professional registers [platform],,,,
+openai,net_au,imp_09_00,none,2,how do I get a marriage license,"To get a marriage license in the U.S., you usually need to **apply with the local government in the state or county where you plan to marry**. The exact office and requirements vary by location, so the safest first step is to contact the **vital records office or local government where you’re getting married**. ([usa.gov](https://www.usa.gov/marriage-certificate?utm_source=openai))
+
+General steps:
+1. **Find the correct office** for the state/county where the wedding will happen. ([usa.gov](https://www.usa.gov/state-governments?utm_source=openai))  
+2. **Apply for the license** before the wedding; some places let you apply online, but many require in-person application. ([usa.gov](https://www.usa.gov/marriage-certificate?utm_source=openai))  
+3. Bring the required documents, which often include **photo ID**, and sometimes proof of age, Social Security number, or divorce/widowhood documents if applicable. Requirements vary by state. ([usa.gov](https://www.usa.gov/marriage-certificate?utm_source=openai))  
+4. Pay the fee, wait out any required waiting period, and then get married before the license expires. USAGov notes that licenses often expire within **30 days to a year**, depending on the state. ([usa.gov](https://www.usa.gov/marriage-certificate?utm_source=openai))
+
+If you want, tell me **your state or county**, and I can find the exact marriage-license office and requirements for you.",local government [public]; vital records office [public]; USAGov [public],,,,
+openai,e1_natural,imp_05_03,lon,1,can I buy alcohol on Sunday,"Yes — in **England and Wales**, you can usually buy alcohol on a Sunday as long as the shop is open and licensed to sell alcohol. Supermarkets and off-licences generally can sell alcohol during normal trading hours, and larger shops can open on Sundays for **6 consecutive hours between 10am and 6pm**. ([gov.uk](https://www.gov.uk/trading-hours-for-retailers-the-law?utm_source=openai))
+
+A few caveats:
+- The shop must have the right **alcohol licence**. ([gov.uk](https://www.gov.uk/find-licences/premises-licence?utm_source=openai))
+- Large shops in England and Wales have the Sunday opening-hour restriction above. ([gov.uk](https://www.gov.uk/trading-hours-for-retailers-the-law?utm_source=openai))
+- Rules differ in **Scotland**, where Sunday trading restrictions don’t apply the same way. ([gov.uk](https://www.gov.uk/trading-hours-for-retailers-the-law?utm_source=openai))
+
+If you want, I can also tell you the rule for **pubs/bars**, or for **your specific country in the UK**.",England and Wales [public]; gov.uk [public]; Scotland [public],,,,
+openai,e1_natural,exp_08_00,nyc,1,things to do near me this weekend,"You’ve got a rainy **Sunday, October 11, 2026** in New York, so I’d lean toward indoor or flexible plans today, then outdoor stuff on **Monday, October 12** when it looks warmer and mostly dry. 
+
+A few good **things to do near you this weekend**:
+
+- **Broadway matinee or evening show** — there are performances this weekend, including **MJ The Musical** and **Chicago** on Sunday. ([broadway.com](https://www.broadway.com/shows/find-by-date/?utm_source=openai))
+- **Museum day at MoMA** — current exhibitions include **Creativity Lab: Art of the Book** and **Modern Mural: Nina Chanel Abney’s LOVE NYC**. ([moma.org](https://www.moma.org/calendar/exhibitions?locale=en&location=both&utm_source=openai))
+- **Fall NYC weekend events** — local roundups are highlighting things like a **new sensory exhibit about the five boroughs**, **Dia de Muertos at NYBG**, and **BloodManor**. ([timeout.com](https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend?mrfcid=202607176a5624c021493d2cf9fa28bb&utm_source=openai))
+- **Food event option** — **SUSHI-CON 2026** is happening at **Pier 36 on Sunday, October 11**. ([secretnyc.co](https://secretnyc.co/what-to-do-this-weekend-nyc/?utm_source=openai))
+- **Outdoor plan for Monday** — if you want a nicer-weather day, Monday looks much better for a park walk, waterfront stroll, or garden visit. 
+
+If you want, I can narrow this down to:
+1. **free things to do**,  
+2. **date ideas**,  
+3. **family-friendly**, or  
+4. **neighborhood-specific** options near you.",MJ The Musical [product]; Chicago [product]; MoMA [public]; Creativity Lab: Art of the Book [product]; Modern Mural: Nina Chanel Abney’s LOVE NYC [product]; BloodManor [chain]; SUSHI-CON 2026 [product]; Pier 36 [local],,,,
+openai,e1_natural,non_03_03,den,2,how are insurance premiums calculated,"Insurance premiums are usually calculated by combining:
+
+1. **Expected risk**
+   - How likely you are to file a claim.
+   - How expensive that claim is likely to be.
+
+2. **Underwriting factors**
+   - Depending on the type of insurance, this can include things like:
+     - Age
+     - Location
+     - Driving record
+     - Health history
+     - Credit-based insurance score
+     - Property condition
+     - Coverage amount and deductible
+
+3. **Claims data and statistics**
+   - Insurers use large datasets to estimate how much similar customers have cost in the past.
+
+4. **Operating costs**
+   - Staff, administration, commissions, marketing, and technology.
+
+5. **Profit margin and taxes**
+   - The insurer builds in expected profit and regulatory costs.
+
+A simplified formula is:
+
+**Premium = expected claim cost + expenses + profit/loadings**
+
+### Example
+If an insurer thinks:
+- your expected claims cost is $800/year,
+- expenses are $200/year,
+- desired profit and margin are $100/year,
+
+then the premium might be around **$1,100/year**.
+
+### What affects the price most?
+It depends on the policy type:
+- **Auto insurance:** driving record, car type, location, mileage
+- **Home insurance:** property value, rebuild cost, weather/fire risk, claims history
+- **Health insurance:** age, plan type, tobacco use, family size, location
+- **Life insurance:** age, health, occupation, lifestyle
+
+If you want, I can also explain **how premiums are calculated for a specific type of insurance** like auto, health, life, or home.",,,,,
+gemini,net_uk,exp_00_04,none,2,house cleaning services near me,"To find a reliable house cleaning service in your area, you can use a combination of local search tools and community recommendations. Since I do not have access to your specific current location, please use the following steps to find and vet the best services near you.
+
+### 1. Where to Search
+*   **Search Engines:** Use Google Maps or a general search for ""house cleaning services near me."" This will typically display local businesses with their ratings, locations, and contact information.
+*   **Community Platforms:** Apps like **Nextdoor** and local **Facebook groups** are excellent for finding cleaners who have been personally recommended by your neighbors.
+*   **Trusted Marketplaces:** Sites like **Thumbtack**, **Care.com**, or **TaskRabbit** allow you to compare profiles, read verified reviews, and often view pricing upfront.
+
+### 2. Information to Have Ready
+When you reach out to a cleaning service, having this information ready will help them provide an accurate quote:
+*   **Home Details:** Your home's square footage, the number of bedrooms/bathrooms, and whether you have pets.
+*   **Type of Service:** Specify if you need a one-time ""deep clean,"" a recurring maintenance clean (e.g., weekly or monthly), or a move-in/move-out service.
+*   **Specific Needs:** Mention if you need extra tasks like laundry, inside-oven cleaning, or organization, as some companies differentiate between ""house cleaning"" and ""housekeeping"".
+*   **Budget:** Having a rough budget in mind helps you narrow down companies that align with your price point.
+
+### 3. How to Vet Potential Cleaners
+Before booking, it is important to ensure the service is safe and reliable:
+*   **Insurance & Bonding:** Ask if they are insured and bonded. This protects you from liability if an accident or damage occurs in your home.
+*   **Background Checks:** Confirm whether the company conducts background checks on their staff.
+*   **Read Recent Reviews:** Look for feedback regarding punctuality, consistency, and communication rather than just the star rating.
+*   **Ask for Quotes:** Aim to get quotes from at least three different providers to compare pricing and services offered.
+*   **Supplies:** Clarify whether they provide their own cleaning equipment and products or if you are expected to supply them.
+
+**Pro Tip:** If you are contacting them by phone, ask if the price quoted is a flat fee or an hourly rate, and confirm if it includes everything you discussed to avoid surprises.",Google Maps [platform]; Nextdoor [platform]; Facebook groups [platform]; Thumbtack [platform]; Care.com [platform]; TaskRabbit [platform],,,,
+openai,e1_natural,non_08_00,tor,1,how to pack light,"Packing light comes down to **bringing fewer things, choosing multi-use items, and planning for laundry**.
+
+### Simple rules
+- **Pick one small bag** if possible.
+- **Lay out everything first**, then cut it by about 30–50%.
+- **Choose versatile clothes** that mix and match.
+- **Use travel-sized toiletries** or buy them at your destination.
+- **Bring only what you’ll use at least twice**.
+- **Wear your bulkiest items** while traveling.
+
+### Easy packing formula
+For a short trip, try:
+- 3 tops
+- 2 bottoms
+- 1 light layer
+- 4–5 underwear
+- 4–5 socks
+- 1 pair of comfortable shoes
+- Minimal toiletries
+- Charger, passport/ID, meds
+
+### Good habits
+- Choose **quick-dry fabrics**
+- Stick to a **small color palette**
+- Pack **one “just in case” item**, not five
+- Leave room for anything you buy
+
+### Biggest mistake
+People overpack for **possible situations**, not **likely ones**. Pack for the weather and activities you actually expect.
+
+If you want, I can make you a **light-packing checklist for a weekend trip, business trip, or vacation**.",,,,,
+gemini,net_ca1,imp_04_05,none,1,best streaming service for live sports,"The ""best"" streaming service for live sports depends entirely on which sports, leagues, or teams you follow, as broadcasting rights are increasingly fragmented.
+
+For viewers in **Canada**, here is how the top services currently stack up:
+
+### Top Sports Streaming Services in Canada
+*   **Sportsnet+:** The primary destination for **NHL** hockey. It offers extensive coverage of national and regional games, though users often note the importance of choosing between Standard and Premium tiers based on whether they need out-of-market games.
+*   **TSN+:** Excellent for a wide variety of sports, including the **CFL, curling, NBA, and international soccer**. It is often considered the best ""all-round"" option for Canadian sports households.
+*   **DAZN:** A top choice for **NFL** fans (including Game Pass and RedZone), **soccer** (e.g., UEFA Champions League), and **combat sports** like boxing and MMA.
+*   **Amazon Prime Video:** Has become a significant player, now exclusively broadcasting certain **NHL** games (such as ""Monday Night Hockey"") in Canada.
+
+### Strategy for Sports Fans in 2026
+Because no single service carries everything, many sports fans utilize these strategies to save money and stay covered:
+
+1.  **""Subscription Hopping"":** Rather than paying for every service year-round, many fans subscribe only during the seasons their favorite teams are playing and cancel during the off-season.
+2.  **Check for Free/Bundled Access:**
+    *   **CBC Gem:** Offers free, legal live coverage of certain major events, including select hockey games.
+    *   **Cable Bundles:** If you already have a traditional cable subscription, check if it includes free access to streaming apps like Sportsnet+ or TSN+.
+3.  **Identify Your Must-Haves:** Before subscribing, use sites like **[Livesportsontv.com](https://www.livesportsontv.com)** to look up your specific teams or leagues. This will show you exactly which service holds the rights for those games, preventing you from paying for services you don't need.
+
+**Summary Recommendation:**
+*   If you are a **hardcore hockey fan**, start with **Sportsnet+**.
+*   If you follow the **NFL or soccer**, **DAZN** is likely your best value.
+*   For a **broad mix of sports**, **TSN+** is the strongest all-around contender.",Sportsnet+ [chain]; NHL [public]; TSN+ [chain]; CFL [public]; DAZN [chain]; NFL [public]; Amazon Prime Video [chain]; CBC Gem [chain]; Cable Bundles [chain]; Livesportsontv.com [platform],,,,
+openai,net_us_west,exp_00_00,none,2,best plumber near me,"Here are a few good starting points for **finding a plumber near you**:
+
+- **BBB Plumbers Near You** — lets you filter by BBB accreditation, distance, category, and rating. ([bbb.org](https://www.bbb.org/near-me/plumber?utm_source=openai))
+- **Angi Plumbers Near Me** — shows local plumbers with reviews and lets you compare quotes. ([angi.com](https://www.angi.com/nearme/plumbing/?utm_source=openai))
+- **Thumbtack Plumbers Near Me** — matches you with highly rated pros in your area. ([thumbtack.com](https://www.thumbtack.com/k/plumbers/near-me?service=plumbing&utm_source=openai))
+- **Plumber.com** — offers a ZIP/city search for licensed plumbers and mentions emergency service availability. ([plumber.com](https://www.plumber.com/?utm_source=openai))
+
+If you want, I can help you narrow it down further by:
+1. **your ZIP code or city**, and  
+2. whether it’s **emergency repair, drain cleaning, leak repair, water heater, or general plumbing**.
+
+Then I can look for the best nearby options.",BBB Plumbers Near You [platform]; Angi Plumbers Near Me [platform]; Thumbtack Plumbers Near Me [platform]; Plumber.com [platform],,,,
+openai,e1_natural,imp_02_02,lax,2,best bank for a savings account,"If you want the **best savings account right now**, I’d usually point you to a **high-yield online savings account** rather than a big traditional brick-and-mortar bank, because the rates are much higher. As of **October 11, 2026**, Bankrate’s top listed APYs were around **4.27%** for **Peak Bank** and **4.25%** for **CIT Bank**, with several other online banks close behind. ([bankrate.com](https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/?sub-id=kiplinger-us-1233313484451654897&utm_source=openai))
+
+A practical shortlist:
+- **Best rate:** Peak Bank — **4.27% APY**. ([bankrate.com](https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/?sub-id=kiplinger-us-1233313484451654897&utm_source=openai))
+- **Best if you want a well-known option with a strong rate:** CIT Bank — **4.25% APY**. ([bankrate.com](https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/?sub-id=kiplinger-us-1233313484451654897&utm_source=openai))
+- **Best if you want no minimum deposit:** Happen Bank or EverBank — **4.20% APY**. ([bankrate.com](https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/?sub-id=kiplinger-us-1233313484451654897&utm_source=openai))
+- **Best mainstream big-bank option:** Capital One 360 Performance Savings — **3.10% APY**, but a very simple $0 minimum structure. ([bankrate.com](https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/?sub-id=kiplinger-us-1233313484451654897&utm_source=openai))
+
+If you want my quick recommendation:  
+**Choose CIT Bank or Capital One if you want a balance of rate + ease; choose Peak Bank if you want the highest yield and don’t mind an online-only setup.** ([bankrate.com](https://www.bankrate.com/banking/savings/best-high-yield-interests-savings-accounts/?sub-id=kiplinger-us-1233313484451654897&utm_source=openai))
+
+What matters most to you?
+1. highest interest  
+2. easy access to a local branch  
+3. no minimum balance  
+4. safety/brand name  
+5. best for an emergency fund
+
+If you tell me which one matters most, I can narrow it to the best 2–3 options for you.",Peak Bank [chain]; CIT Bank [chain]; Happen Bank [chain]; EverBank [chain]; Capital One 360 Performance Savings [product],,,,
+openai,e1_natural,exp_03_03,phx,1,health insurance brokers near me,"If you want **health insurance brokers near you in Phoenix**, the safest place to start is HealthCare.gov’s **Find Local Help** tool, which can connect you with a **licensed agent/broker in Arizona** and also lets you search by ZIP code or get contacted directly. ([healthcare.gov](https://www.healthcare.gov/find-local-help/get-contacted/?utm_source=openai))
+
+A few quick notes:
+- **Agents/brokers are generally free to use** because they’re usually paid by insurance companies. ([healthcare.gov](https://www.healthcare.gov/find-local-help/get-contacted/?utm_source=openai))
+- They can help you with **Marketplace plans**, and you can still qualify for **tax credits/savings** if you enroll through the Marketplace with their help. ([healthcare.gov](https://www.healthcare.gov/find-local-help/get-contacted/?utm_source=openai))
+- HealthCare.gov says you can usually be contacted **within about 30 minutes**, though waits can be longer outside business hours. ([healthcare.gov](https://www.healthcare.gov/find-local-help/get-contacted/?utm_source=openai))
+
+If you want, I can also help you find:
+1. **individual/family health insurance brokers in Phoenix**, or  
+2. **small-business health insurance brokers**.",HealthCare.gov [public]; Find Local Help [platform]; licensed agent/broker in Arizona [platform]; Marketplace plans [product]; tax credits/savings [product]; individual/family health insurance brokers in Phoenix [platform]; small-business health insurance brokers [platform],,,,
+openai,net_ca1,non_03_00,none,1,what is the difference between term and whole life insurance,"Here’s the basic difference:
+
+- **Term life insurance** covers you for a fixed period, like 10, 20, or 30 years. If you die during that term, your beneficiaries get the death benefit. If the term ends and you’re still alive, the coverage ends and there’s usually **no payout and no cash value**. It’s generally much cheaper. ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?msockid=21333c568326631f1e942ae6828c6276&utm_source=openai))
+- **Whole life insurance** is a type of **permanent** life insurance that typically lasts for your entire life as long as premiums are paid. It includes a **cash value** component that grows over time, and you can often borrow against or withdraw from it. It usually costs much more than term life. ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?msockid=21333c568326631f1e942ae6828c6276&utm_source=openai))
+
+**In short:**  
+- **Term = temporary, cheaper, no cash value**  
+- **Whole = lifelong, more expensive, builds cash value** ([nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/term-vs-whole-life-insurance?utm_source=openai))
+
+If you want, I can also give you a quick “which one is better for me?” guide.",,,,,
+openai,e1_natural,exp_07_03,lon,2,tire shops near me,"I can help, but I need your location first to find **nearby** tire shops.
+
+If you want, send me:
+- your **postcode** or **neighbourhood** in London, or
+- your **current area** plus how far you’re willing to travel
+
+Then I’ll give you a short list of tire shops near you.",,,,,
+openai,e1_natural,exp_03_00,lax,1,local insurance agents near me,"Here are some ways to find **local insurance agents near you in Los Angeles**:
+
+- The **California Department of Insurance** has a “Find an Agent or Broker” tool that lets you search by city or ZIP and shows nearby agents, phone numbers, and license links. ([insurance.ca.gov](https://www.insurance.ca.gov/0200-industry/0010-producer-online-services/0005-quick-guides/Agent-Language-Locator.cfm?utm_source=openai))
+- A few local results I found include:
+  - **Rick Bruner Insurance** — Los Angeles, CA, independent broker. ([rickbrunerinsurance.com](https://rickbrunerinsurance.com/?utm_source=openai))
+  - **Tanesha Harvey (Allstate)** — 6820 La Tijera Blvd, Ste 104, Los Angeles, CA 90045. ([agents.allstate.com](https://agents.allstate.com/?Language=English&ZipCode=90001&intcid=%2Fcovid.aspx%7CMainNav%7Cquote_box%3AFi&utm_source=openai))
+  - **Progressive Agent listing** — 925 N La Brea Ave, Ste 502 & 506, Los Angeles, CA 90038. ([progressiveagent.com](https://www.progressiveagent.com/local-agent/california/los-angeles/?utm_source=openai))
+
+If you want, I can narrow this down to:
+1. **auto insurance**
+2. **home/renters insurance**
+3. **life insurance**
+4. **independent brokers only**
+
+If you share your **ZIP code**, I can find agents closest to your exact area.",California Department of Insurance [public]; Rick Bruner Insurance [local]; Tanesha Harvey (Allstate) [local]; Allstate [chain]; Progressive Agent listing [platform],,,,
+openai,e1_natural,exp_01_00,phx,1,urgent care near me open now,"Here are a few **urgent care clinics in Phoenix that are open now**:
+
+- **NextCare Urgent Care, Phoenix (E Thomas Rd)** — **open now until 12:00 AM**. Address: **1701 E Thomas Rd, Suite A-104, Phoenix, AZ 85016**. ([lyncweb.nextcare.com](https://lyncweb.nextcare.com/locations/az/phoenix-e-thomas-rd/?utm_source=openai))
+- **Banner Urgent Care, Central Ave** — **open now**, listed as **7 AM–7 PM**. Address: **1 N Central Ave, Suite 105, Phoenix, AZ 85004**. ([urgentcare.bannerhealth.com](https://urgentcare.bannerhealth.com/contact/?utm_source=openai))
+- **NextCare Urgent Care, Camelback** — **open until 7:00 PM**. Address: **3931 E Camelback Rd, Phoenix, AZ 85018**. ([solvhealth.com](https://www.solvhealth.com/az/c/phoenix-az-urgent-care?utm_source=openai))
+- **NextCare Urgent Care, Phoenix (Arcadia)** — **open until 8:00 PM**. Address: **4730 E Indian School Rd, Phoenix, AZ 85018**. ([solvhealth.com](https://www.solvhealth.com/az/c/phoenix-az-urgent-care?utm_source=openai))
+- **NextCare Urgent Care, E Greenway Rd** — **open until 8:00 PM**. Address: **3229 E Greenway Rd, Phoenix, AZ 85032**. ([phx.nextcare.com](https://phx.nextcare.com/locations/az/phoenix-e-greenway-rd/?utm_source=openai))
+
+If you want, I can narrow this down to the **closest one to your neighborhood or ZIP code**. If this might be an emergency, call **911** or go to the ER.","NextCare Urgent Care, Phoenix (E Thomas Rd) [chain]; Banner Urgent Care, Central Ave [chain]; NextCare Urgent Care, Camelback [chain]; NextCare Urgent Care, Phoenix (Arcadia) [chain]; NextCare Urgent Care, E Greenway Rd [chain]",,,,
+openai,e1_natural,exp_04_04,mci,1,cable TV providers near me,"If you’re in **Kansas City, Missouri**, the main cable TV options I found are:
+
+- **Spectrum** — offers TV service in Kansas City and asks for your exact address to confirm availability. ([spectrum.com](https://www.spectrum.com/locations/tv-streaming-service/kansas-city-mo-t252?opredirect=cable-tv-service_mo_ks-city&utm_source=openai))
+- **Xfinity** — has a Kansas City, MO local service page, so it may be available in some areas. ([xfinity.com](https://www.xfinity.com/local/mo/kansas-city?utm_source=openai))
+- **Cox legacy/transition-related service info** — Cox’s site now points Kansas City residents to Spectrum, suggesting the local cable landscape may be changing. ([cox.com](https://www.cox.com/residential/local/services/mo/kansas-city/internet.html?utm_source=openai))
+
+For a broader “what’s near me” view, Kansas City TV provider listings also include cable and satellite options, but exact availability depends on your address. ([cabletv.com](https://www.cabletv.com/mo/kansas-city?utm_source=openai))
+
+If you want, I can narrow this down to:
+1. **best cheap cable TV plans**,  
+2. **providers that bundle internet + TV**, or  
+3. **providers available at your exact address**.",Spectrum [chain]; Xfinity [chain]; Cox legacy/transition-related service info [chain]; cabletv.com [platform],,,,
+gemini,net_uk,imp_09_00,none,1,how do I get a marriage license,"In the UK, you do not apply for a ""marriage license"" in the same way you might in other countries. Instead, the legal process is called **""giving notice"" of marriage**.
+
+Here is the step-by-step process to follow:
+
+### 1. Give Notice of Marriage
+""Giving notice"" is a formal legal statement at your local register office that confirms your intention to marry. 
+*   **Where to go:** You must give notice at your local register office in the district where you have lived for the past 7 days. 
+*   **If you live in different districts:** You and your partner must each give notice at your own local register office.
+*   **Timing:** You must give notice at least **29 days** before your ceremony. Once you have given notice, you must hold your ceremony within 12 months.
+
+### 2. Prepare Required Documents
+You will need to provide specific documents to the registrar when you give notice. You generally need to bring:
+*   A valid passport or UK birth certificate.
+*   Proof of address (e.g., a valid UK/Irish driving licence, recent utility bill, or bank/building society statement).
+*   If you have been married before, evidence that the marriage has ended (e.g., a decree absolute or death certificate of your former spouse).
+*   If you were born after 1 January 1983, you may also need to provide your parents' birth certificates.
+
+### 3. Special Considerations
+*   **Foreign Nationals:** If you or your partner are from outside the UK (and do not have settled status), there are different rules. You will usually need to give notice together at a register office in the district where at least one of you lives. 
+*   **Fees:** There is a fee to give notice, which varies depending on your circumstances (typically around £42 per person, or more if one or both of you are not British nationals).
+
+### 4. After the Ceremony
+Once your ceremony has taken place and been registered, you will receive your marriage certificate. This is the official document that proves you are legally married.
+
+***
+
+**Recommendation:** Because requirements can vary slightly depending on your specific location (e.g., England, Wales, Scotland, or Northern Ireland) and your citizenship status, it is best to visit the official [GOV.UK ""Marriages and civil partnerships""](https://www.gov.uk/marriages-civil-partnerships) website to find your local register office and confirm the exact requirements for your situation.",local register office [public]; GOV.UK [public],,,,
+gemini,net_au,imp_04_04,none,2,how much is the average electricity bill,"There is no single ""average"" electricity bill in Australia because costs vary significantly depending on your state, household size, and energy usage habits.
+
+However, based on data from mid-to-late 2026, here is a general guide to help you benchmark your costs.
+
+### **Typical Annual and Quarterly Costs**
+*   **Annual Costs:** Average annual household electricity bills typically range from approximately **$1,310 to $1,580**, though estimates for specific two-person households or higher-usage scenarios can range higher, sometimes exceeding **$2,000–$3,000 per year** depending on the region.
+*   **Quarterly Costs:** A common benchmark for a quarterly electricity bill is often cited between **$320 and $450**, though this can fluctuate based on seasonal heating and cooling needs.
+
+### **Factors That Influence Your Bill**
+Your bill is determined by two main components:
+1.  **Fixed Daily Supply Charge:** A set daily fee for being connected to the grid, typically ranging from **85c to $1.15 per day**.
+2.  **Usage Charges:** The cost of the electricity you actually consume, measured in cents per kilowatt-hour (kWh).
+
+### **Why Your Bill May Differ**
+*   **Location:** Electricity prices differ by state and even by distribution network zone. For instance, South Australia and New South Wales often see higher average costs compared to Victoria or the ACT.
+*   **Household Size:** Naturally, larger households with more people and appliances consume more energy. A single-person household may pay significantly less than a family of four or five.
+*   **Appliances & Habits:** Heating, cooling, and hot water systems are usually the largest drivers of high electricity bills. Heavy reliance on air conditioning during summer or heaters during winter will cause significant seasonal spikes.
+*   **Solar Power:** If you have rooftop solar, your feed-in tariff (the credit you receive for exporting energy back to the grid) can help lower your net bill substantially.
+
+### **Tips for Managing Your Costs**
+*   **Compare Plans:** The Australian Energy Regulator (AER) suggests that households on ""standing offers"" can often save money by switching to a more competitive market offer. It is recommended to compare plans at least once a year.
+*   **Time-of-Use Tariffs:** If you are on a time-of-use tariff, try to shift high-energy tasks—like running the dishwasher, washing machine, or EV charging—to off-peak hours when rates are cheaper.
+*   **Check Your Benchmark:** Use tools like the Australian government's [Energy Made Easy](https://www.energymadeeasy.gov.au/) website to compare your actual usage against benchmarks for similar households in your area.
+
+***Disclaimer:** These figures are estimates based on 2026 industry data and are intended for guidance only. Your actual bill will depend on your specific retailer, tariff structure, and individual energy consumption.*",Australian Energy Regulator (AER) [public]; Energy Made Easy [platform],,,,
+openai,e1_natural,imp_00_00,hou,2,how much does it cost to replace a roof,"A roof replacement in the U.S. usually costs **about $6,000 to $13,000**, with a national average around **$9,400 to $9,600**. Angi’s 2026 data also says roof replacement commonly runs **$4 to $11 per square foot**. ([angi.com](https://www.angi.com/articles/how-much-does-roof-replacement-cost.htm?utm_source=openai))
+
+For **Houston**, the average is about **$9,752**, and most projects fall between **$6,712 and $13,123**. ([angi.com](https://www.angi.com/articles/how-much-does-roof-replacement-cost/tx/houston?utm_source=openai))
+
+The exact price depends mostly on:
+- roof size
+- material type
+- roof pitch/complexity
+- removal of the old roof
+- local labor and permit costs ([angi.com](https://www.angi.com/articles/how-much-does-roof-replacement-cost.htm?utm_source=openai))
+
+If you want, I can estimate the cost for your house if you tell me the **roof size in square feet** and the **roofing material** you want.",Angi [platform],,,,
+openai,e1_natural,imp_01_00,den,1,how much does an MRI cost without insurance,"Without insurance, an MRI in the U.S. is often roughly **$400 to $3,500+**, depending on the body part, whether contrast is used, and whether it’s done at an imaging center or hospital. Imaging centers are usually cheaper than hospitals. FAIR Health notes that uninsured/out-of-network prices are the full undiscounted fees, and that MRI pricing varies by area and procedure code. ([fairhealthconsumer.org](https://www.fairhealthconsumer.org/en/insurance-basics/your-costs/shopping-for-shoppable-services?utm_source=openai))
+
+A practical rule of thumb:
+- **Low end:** about **$400–$900** for a simple MRI at a freestanding imaging center
+- **Typical:** about **$1,000–$2,500**
+- **Hospital-based MRI:** can be **$2,000–$5,000+** ([fairhealthconsumer.org](https://www.fairhealthconsumer.org/en/insurance-basics/your-costs/shopping-for-shoppable-services?utm_source=openai))
+
+If you want, I can help you estimate a **more exact MRI price** if you tell me:
+1. the **body part** being scanned,  
+2. whether it’s **with or without contrast**, and  
+3. your **city/ZIP code**.",FAIR Health [public],,,,
+openai,e1_natural,imp_03_09,nyc,2,do I need health insurance by law,"In the U.S., **usually no** — there is **no federal law** that requires most people to have health insurance anymore.
+
+A few exceptions:
+- **Some states** have their own health insurance mandate.
+- If you get coverage through certain programs, schools, or employers, there may be enrollment rules.
+- If you’re in a place with a state mandate, you may owe a penalty for not having coverage.
+
+If you want, I can check **whether New York currently requires health insurance by law** and tell you the exact rule.",New York [public],,,,
+openai,e1_natural,imp_05_03,boi,1,can I buy alcohol on Sunday,"Yes—**in Idaho, you can usually buy beer and wine on Sunday**, but **liquor (spirits) generally cannot be sold on Sundays** unless your county or city has specifically allowed Sunday liquor sales. Idaho ABC says beer and wine may be sold from **6 a.m. to 1 a.m.**, and liquor cannot be sold on **Sunday, Memorial Day, Thanksgiving, and Christmas** except where local option allows it for some of those days. ([isp.idaho.gov](https://isp.idaho.gov/abc/faq/?utm_source=openai))
+
+If you mean **Boise specifically**, the answer can depend on local ordinances and whether you’re buying from a grocery/store versus a bar/restaurant. If you want, I can check **Boise’s exact Sunday alcohol rules** for beer, wine, and liquor.",Idaho ABC [public]; Boise [local],,,,
+openai,e1_natural,exp_00_00,lon,2,best plumber near me,"If you’re in **London**, a few well-reviewed places to start are:
+
+- **Which? Trusted Traders plumbers in London** for vetted traders. ([trustedtraders.which.co.uk](https://trustedtraders.which.co.uk/plumbers-in-london?utm_source=openai))
+- **Checkatrade plumbers in London**, where plumbers are reviewed and compared by area. ([checkatrade.com](https://www.checkatrade.com/Search/Plumber/in/London?utm_source=openai))
+- **TrustATrader plumbers in London**, which shows a large pool of traders with review scores. ([trustatrader.com](https://www.trustatrader.com/plumbers-in-LONDON?utm_source=openai))
+- **Emergency plumber options on Yell** if you need someone fast. ([yell.com](https://www.yell.com/s/emergency%2Bplumbers-london.html?utm_source=openai))
+
+A couple of names that show up well in review aggregators are **A A C Wilgar Plumbing, Heating & Cooling** and **Boiler Engineer 4U Ltd**. ([mytrustedtraders.com](https://mytrustedtraders.com/find/plumber/london?utm_source=openai))
+
+Before booking, I’d suggest checking:
+1. **Whether they’re Gas Safe registered** if there’s any gas work involved. ([checkatrade.com](https://www.checkatrade.com/Search/plumber/in/London?utm_source=openai))
+2. **Recent reviews**, not just overall stars. ([checkatrade.com](https://www.checkatrade.com/Search/Plumber/in/London?utm_source=openai))
+3. **Call-out fees and minimum charges** in writing. ([mytrustedtraders.com](https://mytrustedtraders.com/find/plumber/london?utm_source=openai))
+
+If you want, I can narrow it down to the **best plumber near your exact postcode** or to **emergency / cheap / boiler / bathroom** plumbing.","Which? Trusted Traders plumbers in London [platform]; Checkatrade plumbers in London [platform]; TrustATrader plumbers in London [platform]; Emergency plumber options on Yell [platform]; A A C Wilgar Plumbing, Heating & Cooling [local]; Boiler Engineer 4U Ltd [local]",,,,
+openai,e1_natural,imp_07_03,sea,1,do I need snow tires,"Probably **not yet** for Seattle based on the next two weeks: the forecast is mostly mild, with highs in the 60s and 70s and only rain/drizzle, not snow. 
+
+If you **live in Seattle proper**, all-season tires are usually fine most of the time. Snow tires start to make sense if:
+- you regularly drive **over mountain passes** or into the Cascades,
+- you commute early in the morning when roads can ice over,
+- you live on **steep hills** or in a neighborhood that stays shaded,
+- or you want extra safety for winter conditions.
+
+A practical rule:
+- **Seattle city driving:** all-seasons are usually enough.
+- **Frequent Snoqualmie/Stevens/Crystal trips or mountain driving:** yes, snow tires are worth it.
+
+If you want, I can help you decide based on your **car, tires, and typical driving routes**.",Snoqualmie [public]; Stevens [public]; Crystal [public],,,,
+openai,net_ca1,imp_08_00,none,2,what is the weather like this weekend,"I found U.S. weather forecasts, but “this weekend” depends on **where you are**. For the U.S. overall, the forecast shows a very warm Sunday, October 11, 2026, with temperatures around **92°F/34°C** and hot, sunny conditions in one forecast, while another U.S.-wide forecast shows **67°F/20°C** with showers and thunderstorms in another area, so conditions vary a lot by region. 
+
+If you want, send me your **city or ZIP code** and I’ll give you the exact weekend forecast for your location.",,,,,
+openai,net_uk,imp_03_09,none,1,do I need health insurance by law,"**Usually, no at the federal level.** The IRS says the federal individual mandate penalty was reduced to **$0 starting in tax year 2019**, so there is **no federal tax penalty** for not having health insurance. However, the IRS also notes that taxpayers are still “required by law” to have minimum essential coverage or qualify for an exemption, even though there’s no federal payment due. ([irs.gov](https://www.irs.gov/affordable-care-act/individuals-and-families/questions-and-answers-on-the-individual-shared-responsibility-provision?utm_source=openai))
+
+**But it depends on where you live.** Some states have their own health insurance mandate, and HealthCare.gov notes that the federal fee for not having health insurance ended in 2018. ([healthcare.gov](https://www.healthcare.gov/health-coverage-exemptions/exemptions-from-the-fee/?utm_source=openai))
+
+If you want, I can check **whether your state has its own health insurance requirement**.",IRS [public]; HealthCare.gov [public],,,,
+openai,e1_natural,non_00_04,lon,2,how to fix a running toilet,"A running toilet is usually caused by one of three things: a flapper/seal problem, a fill valve issue, or the water level being set too high.
+
+### Quick checks
+1. **Lift the tank lid and listen**
+   - If water is constantly flowing into the overflow tube, the **float/fill valve** is the issue.
+   - If the tank empties into the bowl and refills intermittently, the **flapper** may be leaking.
+
+2. **Check the flapper**
+   - Turn off the water supply.
+   - Flush the toilet to empty the tank.
+   - Inspect the rubber flapper at the bottom of the tank.
+   - If it’s warped, cracked, or doesn’t seal well, **replace it**.
+
+3. **Check the chain**
+   - The chain should have a little slack.
+   - If it’s too tight, the flapper won’t close fully.
+   - If it’s too loose, it may get caught and prevent sealing.
+
+4. **Adjust the water level**
+   - The water line should usually sit about **1 inch below the top of the overflow tube**.
+   - If it’s too high, lower the float on the fill valve.
+
+5. **Test the fill valve**
+   - If the valve keeps adding water even when the tank is full, it may need cleaning or replacement.
+
+### Most common fix
+Replacing the **flapper** is often the easiest and cheapest solution.
+
+### Simple step-by-step flapper replacement
+- Turn off the shutoff valve.
+- Flush and sponge out remaining water.
+- Unhook the old flapper.
+- Take it to a hardware store to match the size.
+- Install the new flapper and reconnect the chain.
+- Turn water back on and test.
+
+### If it still runs
+You may need to replace the **entire fill valve assembly**, especially if the toilet is older.
+
+If you want, I can give you:
+- a **5-minute DIY fix**
+- help you **identify the exact part**
+- or a **troubleshooting flowchart** based on what you see in the tank.",flapper [product]; fill valve [product]; entire fill valve assembly [product]; hardware store [chain],,,,
+gemini,net_ca1,exp_00_04,none,1,house cleaning services near me,"To find the best house cleaning services near you, I recommend starting with a few reliable methods to ensure you find a trustworthy and professional provider. Since I don't have your specific address, you can use these steps to get local results immediately:
+
+### How to Find Reliable Cleaners
+*   **Use Local Search Platforms:** Websites like **Bark.com** or **Yellow Pages** allow you to enter your specific location to see a list of cleaners, read customer reviews, and request free quotes.
+*   **Check Professional Websites:** Many reputable companies like **Molly Maid** or local agencies (such as **MaidPro** or **Home Spritz**) have online portals where you can enter your postal code to find services available in your immediate area.
+*   **Personal Referrals:** Asking friends, family, or neighbors is often the most reliable way to find a cleaner. People are usually happy to recommend someone they already trust to be in their home.
+
+### What to Look for When Hiring
+When evaluating potential cleaning services, keep these criteria in mind to ensure you get the quality and safety you expect:
+
+*   **Vetting & Insurance:** Ask if the company performs **background checks** on their staff and whether they carry **liability insurance** and bonding. This protects you in the event of accidents or damage.
+*   **Clear Service Offerings:** Look for companies that provide a **detailed checklist** (e.g., a ""49-point clean"") so you know exactly what is included—such as whether they move furniture, clean inside appliances, or provide their own supplies.
+*   **Customer Reviews & Reputation:** Don't just look at the star rating; read recent reviews to see if they are consistent, punctual, and easy to communicate with.
+*   **Flexibility & Guarantees:** Check if they offer the scheduling frequency you need (weekly, bi-weekly, one-time) and if they have a **satisfaction guarantee** (often a 24-hour window to report issues).
+*   **Transparent Pricing:** Ask about their pricing model—whether they charge hourly or by the job—and be sure to ask about any potential extra costs for specialized deep cleaning or move-in/move-out services.
+
+**Pro-Tip:** If you have specific needs, such as a preference for eco-friendly products or help with a move-in/move-out, mention those upfront to see if the cleaning service can accommodate them.",Bark.com [platform]; Yellow Pages [platform]; Molly Maid [chain]; MaidPro [chain]; Home Spritz [chain],,,,
+openai,e1_natural,exp_02_02,sea,2,financial advisors near me,"Here are some **financial advisors near Seattle, WA** that look like good starting points:
+
+- **Holly Davis — Alta Via Financial Planning** (Seattle). Fee-only, fiduciary, CFP®, advice-only model. ([napfa.org](https://www.napfa.org/member/89840/40875?utm_source=openai))
+- **Michelle Fait — Satori Financial** (Seattle). Fee-only advisory firm in Seattle. ([napfa.org](https://www.napfa.org/member/7624/19952?utm_source=openai))
+- **James Reinke — EP Wealth Advisors** (Seattle). CFP® advisor with a Seattle office. ([napfa.org](https://www.napfa.org/member/109220?utm_source=openai))
+- **Kirwin Financial, LLC** (Issaquah, serving Seattle and the Eastside). Fee-only planning for professionals in their 30s–50s. ([napfa.org](https://www.napfa.org/firm/47547/36395?utm_source=openai))
+- **Amy Goan — Prism Financial Planning** (Issaquah). Hourly, fee-only, fiduciary. ([napfa.org](https://www.napfa.org/member/29022/884?utm_source=openai))
+
+If you want **fee-only fiduciary CFP® planners**, XYPN also has a Seattle-specific advisor directory and says all listed advisors are fiduciaries and fee-only. ([connect.xyplanningnetwork.com](https://connect.xyplanningnetwork.com/seattle?utm_source=openai))
+
+If you want, I can narrow this down to:
+1. **fee-only only**,  
+2. **low/minimum asset requirement**,  
+3. **retirement planning**, or  
+4. **someone who works virtually**.","Alta Via Financial Planning [local]; Satori Financial [local]; EP Wealth Advisors [chain]; Kirwin Financial, LLC [local]; Prism Financial Planning [local]; XYPN [platform]",,,,
+openai,e1_natural,non_07_00,phx,1,how often should I change my oil,"It depends on your vehicle, oil type, and driving habits, but a good rule of thumb is:
+
+- **Conventional oil:** about every **3,000–5,000 miles**
+- **Synthetic oil:** about every **5,000–10,000 miles**
+- **Some newer cars:** can go **10,000+ miles** between changes
+
+Also change it sooner if you do a lot of:
+- short trips
+- stop-and-go driving
+- towing or heavy loads
+- driving in extreme heat or dust
+
+Best answer: **follow your owner’s manual** and your car’s oil-life monitor if it has one.
+
+If you want, tell me your **car year/make/model** and whether it uses **synthetic oil**, and I can give you a more exact interval.",owner’s manual [product]; car’s oil-life monitor [product],,,,
+openai,net_uk,exp_07_03,none,1,tire shops near me,"Here are some web results for **tire shops near you**:
+
+- **TireShopAtlas** — large U.S. tire-shop directory with addresses/phone numbers. ([tireshopatlas.com](https://tireshopatlas.com/?utm_source=openai))
+- **BBB Tire Dealers Near Me** — lets you filter by distance and BBB rating. ([bbb.org](https://www.bbb.org/near-me/tire-dealers?utm_source=openai))
+- **CARFAX Tire Shops Service & Repair near Me** — nearby shop listings with reviews and distance. ([carfax.com](https://www.carfax.com/Nearby-Tire-Service-and-Repair_d2?utm_source=openai))
+- **Tire Rack installer search** — find recommended installers by ZIP code. ([tirerack.com](https://www.tirerack.com/installers?affiliate=fw3&utm_source=openai))
+- **Discount Tire store locator** — find a store near you and book an appointment. ([discounttire.com](https://www.discounttire.com/tires?utm_source=openai))
+- **Tires Plus local store finder** — search by city, state, ZIP, or “Locate Me.” ([tiresplus.com](https://www.tiresplus.com/local/?utm_source=openai))
+
+If you want, I can narrow this down and find the **closest tire shops to your ZIP code or city**.",TireShopAtlas [platform]; BBB Tire Dealers Near Me [platform]; CARFAX Tire Shops Service & Repair near Me [platform]; Tire Rack installer search [platform]; Discount Tire store locator [platform]; Tires Plus local store finder [platform],,,,
+openai,e1_natural,non_05_03,dub,1,best coffee maker,"“Best coffee maker” depends on how you drink coffee:
+
+- **Best drip coffee maker:** Braun PureFlavor Drip Coffee Maker ([goodhousekeeping.com](https://www.goodhousekeeping.com/what-to-buy/g71498076/best-drip-coffee-maker/?utm_source=openai))
+- **Best single-serve:** Keurig K-Supreme Plus Smart Coffee Maker for Keurig-style pods, or Nespresso VertuoPlus for espresso-style drinks ([goodhousekeeping.com](https://www.goodhousekeeping.com/what-to-buy/g71085324/best-single-serve-coffee-makers/?utm_source=openai))
+- **Best coffee maker with grinder:** Black+Decker Mill and Brew Coffee Maker as GH’s value pick in that category ([goodhousekeeping.com](https://www.goodhousekeeping.com/what-to-buy/g71683163/best-coffee-makers-with-grinder/?utm_source=openai))
+- **Best combo coffee + espresso machine:** De'Longhi All-in-One Combination Coffee Maker & Espresso Machine ([goodhousekeeping.com](https://www.goodhousekeeping.com/what-to-buy/g42858823/best-coffee-and-espresso-makers/?utm_source=openai))
+
+If you want just one safe all-around recommendation, I’d say **the Braun PureFlavor** if you want a traditional full pot, or **the Nespresso VertuoPlus** if you want convenience and single cups. ([goodhousekeeping.com](https://www.goodhousekeeping.com/what-to-buy/g71498076/best-drip-coffee-maker/?utm_source=openai))
+
+If you want, I can narrow it down to the **best coffee maker for your budget, kitchen size, or brewing style**.",Braun PureFlavor Drip Coffee Maker [product]; Keurig K-Supreme Plus Smart Coffee Maker [product]; Nespresso VertuoPlus [product]; Black+Decker Mill and Brew Coffee Maker [product]; De'Longhi All-in-One Combination Coffee Maker & Espresso Machine [product]; the Braun PureFlavor [product],,,,
+openai,e1_natural,non_09_00,mci,1,how to write a will,"Writing a will can be straightforward, but the rules vary by state. Since you’re in Missouri, I’ll give you a practical overview. This is general information, not legal advice.
+
+## Basic steps to write a will
+1. **Decide what property you want to leave**
+   - House, bank accounts, car, personal items, investments, etc.
+
+2. **Choose beneficiaries**
+   - The people or organizations who will receive your property.
+
+3. **Choose an executor**
+   - The person who will carry out your instructions and handle probate.
+
+4. **Name a guardian for minor children**
+   - If you have kids under 18, this is one of the most important parts.
+
+5. **Write the will clearly**
+   - Include your full name and statement that this is your last will and testament.
+   - Say who gets what.
+   - Name your executor and an alternate.
+   - Sign and date it.
+
+6. **Use the right witnesses**
+   - In Missouri, a will generally needs to be signed by the testator and witnessed by at least two competent witnesses.
+
+7. **Store it safely**
+   - Keep the original in a secure place and tell your executor where it is.
+
+## Simple will structure
+You can use something like:
+
+- “I revoke all prior wills and codicils.”
+- “I appoint [Name] as executor of my estate.”
+- “I give [specific item or percentage] to [person].”
+- “If any beneficiary does not survive me, then that gift passes to [alternate].”
+- “I appoint [Name] as guardian of my minor children.”
+
+## Important things to remember
+- A will usually covers **property that goes through probate**.
+- Some assets pass outside a will, like life insurance with named beneficiaries, retirement accounts, and jointly owned property.
+- If your situation is complex—children from different relationships, a blended family, significant assets, business ownership, or special needs beneficiaries—it’s worth consulting an estate-planning lawyer.
+
+## Best option
+If you want, I can help you draft:
+- a **very simple basic will**
+- a **will with children/guardian language**
+- a **Missouri-oriented template**
+
+If you want, I can write you a clean fill-in-the-blanks version right now.",estate-planning lawyer [local],,,,
+openai,e1_natural,imp_09_00,mci,1,how do I get a marriage license,"Getting a marriage license usually means:
+
+1. **Find the county office where you’ll apply**  
+   In the U.S., marriage licenses are usually issued by the **county clerk**, **probate court**, or **vital records office**.
+
+2. **Check the requirements**
+   Common requirements include:
+   - Government-issued photo ID
+   - Proof of age
+   - Sometimes birth certificates, divorce decrees, or death certificates for prior spouses
+   - Payment for a fee
+
+3. **Apply in person or online if allowed**
+   Many places require both partners to appear in person, but some allow pre-application online.
+
+4. **Wait period and expiration**
+   Some states have a waiting period before you can use the license, and the license may expire if not used within a certain number of days.
+
+5. **Use the license for the ceremony**
+   The officiant usually signs it after the wedding, then it gets returned to the county for recording.
+
+If you want, I can look up the exact steps for **your state or county**.",county clerk [public]; probate court [public]; vital records office [public],,,,
+openai,e1_natural,imp_09_00,den,1,how do I get a marriage license,"To get a marriage license, the exact process depends on your location, but the usual steps are:
+
+1. **Find the local issuing office**  
+   In many places, it’s the county clerk, recorder, or vital records office.
+
+2. **Check the requirements**
+   Common requirements include:
+   - Both applicants appearing in person
+   - Government-issued photo ID
+   - Proof of age
+   - Sometimes birth certificates, divorce decrees, or death certificates if previously married
+   - A fee
+
+3. **Apply**
+   Fill out the application at the office or online if your area allows pre-application.
+
+4. **Wait if required**
+   Some places issue the license immediately; others have a waiting period before you can use it.
+
+5. **Use the license before it expires**
+   Marriage licenses often expire after a set period if unused.
+
+6. **Have the marriage solemnized**
+   A judge, officiant, or authorized person performs the ceremony.
+
+7. **Return the signed license**
+   After the ceremony, the officiant usually files it with the county/state.
+
+If you tell me your **state or county**, I can give you the exact steps and office to contact.",,,,,
+openai,e1_natural,exp_03_09,hou,1,business insurance brokers near me,"Here are a few **business insurance brokers near Houston, TX** I found:
+
+1. **Whittington Insurance Agency**  
+   18333 Egret Bay Blvd Suite 422, Houston, TX 77058  
+   Commercial insurance, independent agency, and they say they can assist clients anywhere in Texas. ([business.google.com](https://business.google.com/v/whittington-insurance-agency/013266747231229243526/fff0/_?utm_source=openai))
+
+2. **McKamie Commercial**  
+   2273 E Continental Blvd Ste 100, Southlake, TX 76092  
+   Commercial insurance broker, but this one is **not near Houston**. I’d skip it unless you want a remote/Statewide option. ([sites.google.com](https://sites.google.com/mckamie-commercial.com/mckamiecommercial/home?utm_source=openai))
+
+If you want, I can do a **better local shortlist** and filter by:
+- **Houston-only**
+- **small business**
+- **commercial auto / general liability / workers’ comp**
+- **best-rated**
+- **Spanish-speaking**",Whittington Insurance Agency [local]; McKamie Commercial [local],,,,
+openai,e1_natural,imp_09_00,atl,1,how do I get a marriage license,"Getting a marriage license is usually straightforward, but the exact steps depend on your state or county.
+
+In general, you’ll need to:
+
+1. **Go to the county clerk or vital records office** where you want to apply.
+2. **Bring identification** — usually a government-issued photo ID, like a driver’s license or passport.
+3. **Provide basic information** such as your full legal name, date of birth, Social Security number if required, and sometimes parents’ names or previous marriage history.
+4. **Pay a fee** — this varies by location.
+5. **Wait if there’s a waiting period** — some places issue the license immediately; others require a short wait before you can use it.
+6. **Have the license signed by the officiant and witnesses** after the ceremony, then returned to the county office for recording.
+
+A few things can vary a lot:
+- Whether you need to apply **in person**
+- Whether you need a **blood test or not** (usually not anymore)
+- Whether there’s a **waiting period**
+- How long the license is valid before the ceremony
+
+If you want, I can give you the **exact steps for your county/state** if you tell me where you’re getting married.",county clerk [public]; vital records office [public],,,,
+openai,e1_natural,non_01_08,lon,2,how to lower cholesterol naturally,"Here are the most effective **natural** ways to lower cholesterol:
+
+### 1) Change the fats you eat
+- **Reduce saturated fat**: limit butter, ghee, fatty meats, processed meats, full-fat dairy, coconut oil.
+- **Avoid trans fats**: often in fried/packaged baked foods.
+- **Use unsaturated fats instead**: olive oil, rapeseed/canola oil, nuts, seeds, avocado, oily fish.
+
+### 2) Eat more soluble fibre
+Soluble fibre helps reduce LDL (“bad”) cholesterol.
+Good sources:
+- Oats and barley
+- Beans, lentils, chickpeas
+- Apples, pears, citrus
+- Psyllium husk
+- Brussels sprouts, carrots
+
+### 3) Add plant sterols/stanols
+These can lower LDL if taken regularly.
+- Found in some fortified yogurts, spreads, and drinks
+- Often need to be eaten daily for effect
+
+### 4) Move more
+Aim for:
+- **150 minutes/week** of moderate exercise, like brisk walking, cycling, swimming
+- Even a daily 20–30 minute walk helps
+
+### 5) Lose excess weight if needed
+Even a modest loss can improve cholesterol.
+
+### 6) Stop smoking
+Quitting improves HDL (“good” cholesterol) and heart health quickly.
+
+### 7) Drink less alcohol
+Too much alcohol can raise triglycerides and harm heart health.
+
+### 8) Try a heart-healthy eating pattern
+Patterns that often work well:
+- **Mediterranean diet**
+- **DASH diet**
+- More vegetables, fruit, legumes, whole grains, fish, nuts
+- Less processed food, sugar, and refined carbs
+
+### 9) Consider omega-3 foods
+These are especially helpful for triglycerides:
+- Salmon, sardines, mackerel, trout
+- Flaxseed, chia, walnuts
+
+### 10) Sleep and stress matter
+Poor sleep and chronic stress can affect eating habits and heart risk.
+
+## A simple start plan
+For the next 2 weeks:
+- Eat **oats** for breakfast most days
+- Add **beans/lentils** 3–5 times a week
+- Swap butter for **olive oil**
+- Walk **30 minutes a day**
+- Cut down on pastries, fried food, and processed meats
+
+## When to see a doctor
+If your cholesterol is high, or you have diabetes, high blood pressure, a family history of early heart disease, or chest pain symptoms, it’s worth speaking to a clinician. Sometimes lifestyle changes aren’t enough, and medication may still be needed.
+
+If you want, I can make you a **1-week cholesterol-lowering meal plan** or a **shopping list**.",Mediterranean diet [public]; DASH diet [public],,,,
+gemini,net_ca1,imp_03_00,none,1,how much is car insurance per month,"As of late 2026, Canadians can expect to pay an average of **$100 to $170 per month** for car insurance, though actual costs vary significantly depending on where you live and your personal profile.
+
+Because insurance rates are highly personalized, there is no single ""standard"" price. Here is a breakdown of what influences those costs and how they vary by region.
+
+### Average Monthly Costs by Province
+Your location is one of the biggest factors in determining your premium, as rates are influenced by local traffic, theft rates, and provincial insurance models. Recent estimates show a wide range across the country:
+
+*   **Ontario:** Generally sees the highest rates, with averages often ranging from **$160 to over $200 per month** depending on the specific city.
+*   **Quebec:** Typically offers the lowest rates in Canada, often averaging under **$90 per month**.
+*   **Other Provinces:** Most other provinces, such as Alberta, British Columbia, and the Atlantic provinces, generally fall between the highs of Ontario and the lows of Quebec.
+
+### Key Factors That Influence Your Rate
+Insurance companies calculate your specific premium based on several personal and vehicle-related factors:
+
+*   **Driving Record:** A clean history with no at-fault accidents or traffic convictions will help you secure the lowest possible rates.
+*   **Age and Experience:** Younger, less experienced drivers (typically under 25) usually pay more because they are statistically at a higher risk of being involved in accidents. 
+*   **Vehicle Make and Model:** It isn't just about the price of the car; insurers look at how expensive your vehicle is to repair, its safety features, and its likelihood of being stolen.
+*   **Usage:** How much you drive (annual kilometres) and what you use the car for (e.g., commuting to work vs. occasional pleasure use) will affect your price.
+*   **Coverage and Deductibles:** Choosing higher coverage limits or a lower deductible (the amount you pay out-of-pocket during a claim) will increase your monthly premium.
+
+### How to Get a More Accurate Estimate
+Since averages are only a rough guide, the best way to know what you will pay is to get a personalized quote. 
+*   **Use online comparison tools:** Many sites allow you to enter your postal code, vehicle information, and driving history to receive quotes from multiple providers in minutes.
+*   **Check for discounts:** Always ask about potential savings, such as bundling home and auto insurance, completing a driver training course, or installing anti-theft devices.",online comparison tools [platform],,,,
+openai,net_au,exp_07_03,none,2,tire shops near me,"I found several **tire-shop finder** pages, but I don’t have your location yet, so I can’t list actual nearby shops from “near me” alone. The most useful options I found are:
+
+- **Tire Rack installer finder** — lets you enter your ZIP code or use your current location to find recommended installers. ([tirerack.com](https://www.tirerack.com/installers?affiliate=fw3&utm_source=openai))
+- **BBB tire dealers near you** — a directory you can filter by distance, rating, and accreditation. ([bbb.org](https://www.bbb.org/near-me/tire-dealers?utm_source=openai))
+- **CARFAX tire shops/service & repair near me** — shows nearby shops and distances once location is set. ([carfax.com](https://www.carfax.com/Nearby-Tire-Service-and-Repair_d2?utm_source=openai))
+- **Discount Tire store finder** — lets you search for tire shops by city, state, or ZIP. ([discounttire.com](https://www.discounttire.com/tires?utm_source=openai))
+- **Tires Plus local finder** — search by city/state/ZIP or “Locate Me.” ([tiresplus.com](https://www.tiresplus.com/local/?utm_source=openai))
+
+If you want, send me your **ZIP code, city, or neighborhood**, and I’ll narrow it down to specific tire shops near you.",Tire Rack installer finder [platform]; BBB tire dealers near you [platform]; CARFAX tire shops/service & repair near me [platform]; Discount Tire store finder [platform]; Tires Plus local finder [platform],,,,
+openai,e1_natural,imp_01_08,nyc,1,what is the air quality today,"I can’t see a direct air-quality/AQI reading from the weather tool, but **today in New York City it’s raining and about 59°F (15°C)**, which can sometimes help suppress some particulate pollution. 
+
+If you want, I can also look up the **current AQI for New York City** specifically.",,,,,
+openai,e1_natural,non_09_00,jan,2,how to write a will,"Writing a will is a good way to make sure your property and wishes are handled the way you want.
+
+## Basic steps
+1. **List your assets**
+   - Home, bank accounts, vehicles, investments, personal items, digital accounts, etc.
+
+2. **Choose beneficiaries**
+   - Decide who gets what.
+
+3. **Name an executor**
+   - This is the person who will carry out your instructions.
+
+4. **Name guardians for minor children**
+   - If applicable, this is very important.
+
+5. **Write the document clearly**
+   - Include your full legal name, a statement that this is your last will and testament, and your instructions.
+
+6. **Sign it properly**
+   - Most places require witnesses, and some allow/notarize a self-proving affidavit.
+
+7. **Store it safely**
+   - Tell your executor where it is kept.
+
+## Simple will template
+```text
+Last Will and Testament of [Your Full Name]
+
+I, [Your Full Name], of [City, State], declare this to be my Last Will and Testament. I revoke any prior wills and codicils.
+
+1. Executor
+I appoint [Name] as Executor of my estate. If that person cannot serve, I appoint [Alternate Name].
+
+2. Beneficiaries
+I give [specific item or amount] to [Name].
+I give the rest of my estate to [Name].
+
+3. Guardianship
+If I have minor children, I appoint [Name] as guardian.
+
+4. Debts and Expenses
+I direct that my debts, funeral expenses, and estate expenses be paid from my estate as allowed by law.
+
+5. Signature
+Signed on [date].
+
+____________________
+[Your Signature]
+
+Witnesses:
+____________________
+[Witness 1]
+____________________
+[Witness 2]
+```
+
+## Important notes
+- **State laws vary**, so the number of witnesses and other requirements depend on where you live.
+- If you have a large estate, blended family, business, or special needs dependents, it’s worth talking to an estate lawyer.
+- If you want to avoid mistakes, you can use a state-specific form or legal service.
+
+If you want, I can help you draft a simple will based on your situation.",an estate lawyer [local]; a state-specific form [product]; legal service [chain],,,,
+openai,net_us_east,non_03_03,none,2,how are insurance premiums calculated,"Insurance premiums are generally calculated by estimating the **expected cost of future claims**, then adding amounts for **expenses, commissions, taxes, reinsurance, and profit/margin**. In practice, insurers use **underwriting** to assess risk and **rating** to turn that risk into a price. ([content.naic.org](https://content.naic.org/article/why-are-my-insurance-premiums-increasing?utm_source=openai))
+
+What affects the premium depends on the type of insurance, but common factors include:
+- **Coverage amount and policy limits**
+- **Deductible**
+- **Your risk profile** (for example driving history for auto, location and property features for home, age/tobacco use for health)
+- **Claims history**
+- **State/regulatory rules**
+- In some places and lines of insurance, **credit-based insurance scores** may also affect pricing. ([healthcare.gov](https://www.healthcare.gov/how-plans-set-your-premiums/index.html?utm_source=openai))
+
+A simple way to think about it is:
+
+**Premium = expected loss cost + insurer expenses + profit/loading**.  
+For auto and homeowners insurance, state regulators note that companies use many factors and that each insurer’s formula is different. ([tdi.texas.gov](https://www.tdi.texas.gov/consumer/how-are-your-auto-and-homeowners-insurance-costs-calculated.html?utm_source=openai))
+
+If you want, I can also break this down by **auto, health, home, or life insurance** with a plain-English example.",content.naic.org [platform]; healthcare.gov [platform]; tdi.texas.gov [public],,,,
+gemini,net_us_east,exp_05_03,none,2,vegan restaurants near me,"To provide you with the most accurate recommendations for vegan restaurants, I need to know your **current location** (city or neighborhood).
+
+Since I do not have access to your GPS data, please reply with your location! 
+
+In the meantime, if you are looking for tools to find vegan options anywhere you go, these are the most reliable resources:
+
+*   **[HappyCow](https://www.happycow.net):** The gold standard for finding vegan and vegetarian restaurants worldwide. You can search by city or zip code, and it features reviews and photos from the plant-based community.
+*   **Google Maps:** Simply searching ""vegan restaurants near me"" in your Google Maps app will provide real-time results, including distance, current opening hours, and customer ratings.
+
+**If you provide your city or area, I would be happy to look up some highly-rated vegan spots for you!**",HappyCow [platform]; Google Maps [platform],,,,
+openai,e1_natural,imp_01_00,atl,2,how much does an MRI cost without insurance,"Without insurance, an MRI in the U.S. often costs roughly **$400 to $3,500** depending on where you go and what kind of MRI it is. Freestanding imaging centers are usually cheaper, while hospitals tend to be more expensive. A reasonable “typical” ballpark is around **$1,000 to $2,000**. ([coveredusa.org](https://coveredusa.org/en/blog/mri-cost-without-insurance?utm_source=openai))
+
+A few examples from recent published self-pay data:
+- **Brain MRI (without contrast):** about **$1,650–$1,719** median cash price in hospital data. ([fairvisithealth.com](https://fairvisithealth.com/costs/mri-without-insurance/?utm_source=openai))
+- **Knee MRI:** about **$1,849** median hospital cash price. ([selfpayrates.com](https://selfpayrates.com/cost/mri?utm_source=openai))
+- Some self-pay imaging centers advertise prices around **$345–$500** for simpler MRI scans. ([brightlightimaging.com](https://brightlightimaging.com/assets/uploads/2025/11/Temproary2026SELF_PAY_PRICING_2026.pdf?utm_source=openai))
+
+If you want, I can help you estimate the cost for a **specific MRI type** like brain, spine, knee, or abdomen, and I can also look up **Atlanta-area self-pay prices**.",brightlightimaging.com [chain],,,,
+openai,e1_natural,non_08_00,sea,1,how to pack light,"Packing light is mostly about **choosing fewer, more versatile things** and **planning around what you can re-wear or wash**.
+
+### Simple rules
+- **Pick one small bag** and let that limit you.
+- **Choose a color palette** so everything mixes and matches.
+- **Pack outfits, not random items**.
+- **Bring the smallest version** of each thing that still works.
+- **Leave “just in case” items behind** unless they’re truly necessary.
+
+### Good packing strategy
+1. **Start with your destination and activities**
+   - How many days?
+   - Weather?
+   - Need formal clothes, hiking gear, business attire?
+
+2. **Build around 2–3 pairs of shoes max**
+   - Shoes are bulky, so keep this tight.
+
+3. **Use the “wear one, wash one” idea**
+   - Especially for underwear, socks, shirts.
+
+4. **Choose versatile clothes**
+   - Neutral tops, one jacket, pants that work for day and night.
+
+5. **Limit toiletries**
+   - Use travel-size containers.
+   - Don’t pack full-size bottles.
+
+6. **Use packing cubes or compression bags**
+   - Helps organize and reduce wasted space.
+
+### A good default capsule
+- 3 tops
+- 2 bottoms
+- 1 outer layer
+- 3–5 underwear/socks
+- 1–2 pairs of shoes
+- 1 set of sleepwear
+- Minimal toiletries and chargers
+
+### Mindset trick
+Ask: **“If I don’t bring this, can I buy, borrow, or do without it?”**
+
+If you want, I can also give you:
+- a **1-week packing list**
+- a **carry-on-only packing list**
+- or a **packing light checklist for men/women/travel**.",packing cubes [product]; compression bags [product],,,,
+openai,e1_natural,imp_01_00,chi,2,how much does an MRI cost without insurance,"Without insurance, an MRI in the U.S. often costs **roughly $400 to $3,500+**, depending on the body part, whether contrast is used, and whether it’s done at an imaging center or hospital. Hospital-based MRIs are usually more expensive than standalone imaging centers. FAIR Health notes that uninsured prices can be estimated from local provider charges and vary by location and setting. ([fairhealthconsumer.org](https://www.fairhealthconsumer.org/insurance-basics/your-costs/planning-your-costs-based-on-where-you-get-care?utm_source=openai))
+
+A practical rule of thumb:
+- **Low end:** about **$400–$800** for a simple MRI at an imaging center
+- **Common range:** about **$800–$2,500**
+- **Hospital prices:** can be **$2,000–$5,000+** in some cases ([fairhealthconsumer.org](https://www.fairhealthconsumer.org/insurance-basics/your-costs/planning-your-costs-based-on-where-you-get-care?utm_source=openai))
+
+If you want, I can help you estimate the cost for a **specific MRI type** and **your city**.",FAIR Health [public],,,,
+openai,e1_natural,imp_08_00,lon,1,what is the weather like this weekend,"This weekend in London looks mild and a bit cloudy:
+
+- **Sunday, October 11:** Intervals of clouds and sunshine, around **16°C / 12°C**.
+- **Monday, October 12:** Mainly cloudy with a passing shower, around **17°C / 15°C**. 
+
+If you want, I can also give you an **hour-by-hour** view or suggest what to wear.",,,,,
+gemini,net_us_west,exp_04_04,none,1,cable TV providers near me,"To find cable TV providers specifically in your area, you will need to search by your ZIP code, as availability varies significantly depending on your exact location.
+
+### How to Find Providers Near You
+Because I do not have access to your specific address, you can use these reliable resources to see which companies offer service at your home:
+
+*   **[CableTV.com](https://www.cabletv.com):** This site allows you to enter your ZIP code or select your state to see a list of available cable, satellite, and streaming providers.
+*   **[InMyArea.com](https://www.inmyarea.com):** A tool that breaks down available wired, satellite, and streaming services based on your location.
+*   **[CableCompare.com](https://www.cablecompare.com):** This service lets you compare plans, pricing, and bundles for providers specifically at your address.
+*   **[SmartMove](https://www.smartmove.us):** Another resource where you can input your address to compare providers side-by-side without needing to visit multiple websites.
+
+### Common Types of TV Providers
+When searching, you will likely encounter these three types of services:
+1.  **Wired Cable:** Traditional service delivered via copper or fiber-optic cables (e.g., Xfinity, Spectrum, Cox, Optimum).
+2.  **Satellite TV:** A great option for rural or remote areas where wired cables may not be available (e.g., DIRECTV, DISH).
+3.  **Live TV Streaming:** Modern, internet-based services that offer cable-like channel lineups without the need for a traditional cable box (e.g., YouTube TV, Hulu + Live TV, Sling TV, Fubo).
+
+### Factors to Consider
+*   **Bundles:** Many providers offer discounts if you combine your TV service with high-speed internet.
+*   **Channel Lineups:** If you are a sports fan or need specific movie channels, check the channel lists for each provider before signing a contract.
+*   **Contracts:** Look for flexible, ""no-annual-contract"" packages if you want to avoid long-term commitments.",CableTV.com [platform]; InMyArea.com [platform]; CableCompare.com [platform]; SmartMove [platform]; Xfinity [chain]; Spectrum [chain]; Cox [chain]; Optimum [chain]; DIRECTV [chain]; DISH [chain]; YouTube TV [chain]; Hulu + Live TV [chain]; Sling TV [chain]; Fubo [chain],,,,
+openai,net_ca1,exp_08_03,none,2,gyms near me,"I found Google Maps results for **“gyms near me,”** but I can’t see your exact location from here, so the results are only a rough match and may not be near you. Here are a few nearby gym listings from the search results I found: Pace317, Krave Gym Des Moines, DSM Barbell Club, and Anytime Fitness. ([google.com](https://www.google.com/maps/search/gyms?utm_source=openai))
+
+If you want, send me your **city, ZIP code, or neighborhood**, and I can narrow it down to the closest gyms with hours, ratings, and types.",Google Maps [platform]; Pace317 [local]; Krave Gym Des Moines [local]; DSM Barbell Club [local]; Anytime Fitness [chain],,,,
+openai,e1_natural,non_05_03,nyc,2,best coffee maker,"If you want **one safe default pick**, I’d go with a **Technivorm Moccamaster KBGV Select** for a drip coffee maker: it’s repeatedly ranked at the top of 2026 buying guides for brew quality and build quality. ([tomsguide.com](https://www.tomsguide.com/home/coffee-makers/best-coffee-makers?utm_source=openai))
+
+A few good choices by use case:
+- **Best overall drip:** Technivorm Moccamaster KBGV Select. ([tomsguide.com](https://www.tomsguide.com/home/coffee-makers/best-coffee-makers?utm_source=openai))
+- **Best value / budget drip:** Black+Decker 4-in-1 5-Cup CM0755S shows up as a strong budget option in Consumer Reports’ 2026 testing. ([consumerreports.org](https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/?msockid=0c811e57c41d6dd82005081cc5686c68&utm_source=openai))
+- **Best espresso machine:** Consumer Reports’ 2026 roundup is a good place to start if you want espresso drinks rather than drip coffee. ([consumerreports.org](https://www.consumerreports.org/appliances/coffee-makers/best-espresso-machines-a1118374614/?msockid=2fe153731d456124270345381c436034&utm_source=openai))
+- **Best single-serve / pod:** Consumer Reports also has a separate 2026 K-Cup guide. ([consumerreports.org](https://www.consumerreports.org/appliances/coffee-makers/best-keurig-k-cup-coffee-makers-a2682700597/?utm_source=openai))
+
+If you want, I can narrow it down to the **best coffee maker for your budget**, like:
+1. **under $100**
+2. **best overall**
+3. **best for iced coffee**
+4. **best espresso**
+5. **best for one person**",Technivorm Moccamaster KBGV Select [product]; Black+Decker 4-in-1 5-Cup CM0755S [product],,,,
+gemini,net_ca1,non_01_08,none,1,how to lower cholesterol naturally,"Lowering cholesterol naturally is primarily achieved through consistent, heart-healthy lifestyle choices. While some individuals may still require medication, many can significantly improve their numbers by focusing on diet, physical activity, and overall habits.
+
+### 1. Focus on Heart-Healthy Eating
+The most effective dietary changes involve reducing unhealthy fats and increasing fiber-rich, nutrient-dense foods.
+
+*   **Reduce Saturated Fats:** Limit intake of red meat, full-fat dairy products (butter, cream, cheese), and tropical oils like palm or coconut oil.
+*   **Eliminate Trans Fats:** While largely phased out of many products, check labels for ""partially hydrogenated oils,"" which are harmful to heart health.
+*   **Increase Soluble Fiber:** This helps block cholesterol from being absorbed into your bloodstream. Good sources include oatmeal, kidney beans, Brussels sprouts, apples, pears, and barley.
+*   **Choose Healthy Fats:** Replace saturated fats with unsaturated fats found in avocados, olive oil, nuts (like walnuts and almonds), seeds (like flaxseeds), and fatty fish (such as salmon, mackerel, and sardines).
+*   **Incorporate Plant Sterols and Stanols:** These naturally occurring compounds, found in some fortified foods (like certain margarines or yogurts), can help limit cholesterol absorption.
+
+### 2. Increase Physical Activity
+Regular exercise helps improve your cholesterol profile by raising ""good"" (HDL) cholesterol and aiding in weight management.
+*   **Aim for Consistency:** Try to get at least **150 minutes of moderate-intensity aerobic exercise** (such as brisk walking, swimming, or cycling) per week.
+*   **Stay Active Daily:** Small changes, like taking the stairs, parking further away, or taking short walk breaks, add up over time.
+
+### 3. Maintain a Healthy Weight
+Excess weight, particularly around the midsection, can raise ""bad"" (LDL) cholesterol and slow the body's ability to remove it from the blood. Even modest weight loss can have a positive impact on your heart health.
+
+### 4. Adjust Lifestyle Habits
+*   **Quit Smoking:** Smoking damages blood vessels and lowers your ""good"" (HDL) cholesterol. Quitting can lead to rapid improvements in heart health and blood circulation.
+*   **Limit Alcohol:** If you drink, do so in moderation (generally one drink per day for women, up to two for men). Excessive alcohol can lead to serious health issues, including high blood pressure.
+
+### Important Note on Medication
+While these natural steps are highly effective for many, they do not always replace the need for medication. Some people have a genetic predisposition to high cholesterol that requires medical intervention. **Always consult with your healthcare provider** to create a plan tailored to your specific health needs and to discuss if or when you might need medication alongside these healthy habits.",,,,,
+openai,e1_natural,imp_07_06,mia,2,"best used car under $15,000","If you want a **single best all-around used car under $15,000**, I’d start with the **2016 Honda Civic**. It shows up as the top small car under $15k in iSeeCars’ 2026 rankings and is also highlighted by Consumer Reports among the best used cars/SUVs under $15,000. ([iseecars.com](https://www.iseecars.com/reliable-used-cars-under-15k/small-cars?utm_source=openai))
+
+Good alternatives by use case:
+- **Best midsize sedan:** **2016 Honda Accord** or **2016 Toyota Camry**. ([iseecars.com](https://www.iseecars.com/best-used-cars-under-15k/midsize-cars?utm_source=openai))
+- **Best SUV:** **2016 Honda HR-V**. ([iseecars.com](https://www.iseecars.com/best-used-cars-under-15k?utm_source=openai))
+- **Best value pick:** **2018 Toyota Corolla** is a strong low-drama option if you find a clean one in budget. ([iseecars.com](https://www.iseecars.com/best-used-cars-under-15k/small-cars?utm_source=openai))
+
+My practical recommendation:
+1. **Honda Civic**
+2. **Toyota Corolla**
+3. **Toyota Camry**
+4. **Honda Accord**
+5. **Honda HR-V** if you want an SUV
+
+If you want, I can narrow this down to:
+- **most reliable**
+- **best for Miami / Florida**
+- **best SUV vs sedan**
+- **best car under $15k with low mileage**",2016 Honda Civic [product]; 2016 Honda Accord [product]; 2016 Toyota Camry [product]; 2016 Honda HR-V [product]; 2018 Toyota Corolla [product]; Honda Civic [product]; Toyota Corolla [product]; Toyota Camry [product]; Honda Accord [product]; Honda HR-V [product],,,,
